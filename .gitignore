@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.pytest_cache/
+docs/data/*.tmp
+pipeline/data/*.tmp
+pipeline/tests/.test-output/*
+!pipeline/tests/.test-output/.gitkeep
+!pipeline/tests/.test-output/docs-data/
+pipeline/tests/.test-output/docs-data/*
+!pipeline/tests/.test-output/docs-data/.gitkeep

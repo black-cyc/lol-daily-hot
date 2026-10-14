@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T15:21:32.898597+08:00",
+  "sources": {
+    "bilibili": {
+      "status": "failed",
+      "count": 0,
+      "error": "HTTPSConnectionPool(host='api.bilibili.com', port=443): Max retries exceeded with url: /x/web-interface/search/type?search_type=video&keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&order=click&page=1 (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=9): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。\")))",
+      "collected_at": "2026-10-14T15:21:34.947913+08:00"
+    },
+    "weibo": {
+      "status": "failed",
+      "count": 0,
+      "error": "HTTPSConnectionPool(host='weibo.com', port=443): Max retries exceeded with url: /ajax/side/hotSearch (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=9): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。\")))",
+      "collected_at": "2026-10-14T15:21:36.987392+08:00"
+    },
+    "hupu": {
+      "status": "failed",
+      "count": 0,
+      "error": "HTTPSConnectionPool(host='bbs.hupu.com', port=443): Max retries exceeded with url: /lol (Caused by ProxyError('Unable to connect to proxy', NewConnectionError(\"HTTPSConnection(host='127.0.0.1', port=9): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。\")))",
+      "collected_at": "2026-10-14T15:21:39.026163+08:00"
+    },
+    "douyin": {
+      "status": "failed",
+      "count": 0,
+      "error": "未配置 DOUYIN_HOT_API_URL",
+      "collected_at": "2026-10-14T15:21:39.028159+08:00"
+    }
+  },
+  "topics": [],
+  "meta": {
+    "cluster_mode": "local",
+    "item_count": 0
+  }
+}

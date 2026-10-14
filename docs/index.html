@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0a0d12" />
+    <title>英雄联盟热点监控</title>
+    <link rel="stylesheet" href="./assets/style.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="masthead">
+        <div class="brand-row">
+          <div>
+            <p class="eyebrow">LEAGUE OF LEGENDS / DAILY SIGNAL</p>
+            <h1>英雄联盟热点监控</h1>
+          </div>
+          <div class="date-control">
+            <label for="history-date">查看日期</label>
+            <select id="history-date" aria-label="查看历史日期" disabled>
+              <option>正在读取...</option>
+            </select>
+          </div>
+        </div>
+        <div class="report-line">
+          <span id="report-date">等待数据</span>
+          <span class="divider" aria-hidden="true"></span>
+          <span id="updated-at">--</span>
+          <span class="mode" id="cluster-mode"></span>
+        </div>
+      </header>
+
+      <section class="source-section" aria-labelledby="source-heading">
+        <div class="section-heading">
+          <p class="eyebrow" id="source-heading">DATA FEEDS</p>
+          <span id="source-summary">--</span>
+        </div>
+        <div class="source-grid" id="source-status" aria-live="polite"></div>
+      </section>
+
+      <section class="topics-section" aria-labelledby="topics-heading">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">TODAY'S PULSE</p>
+            <h2 id="topics-heading">今日话题</h2>
+          </div>
+          <span class="topic-count" id="topic-count">--</span>
+        </div>
+        <div id="notice" class="notice" hidden role="alert"></div>
+        <div id="topic-list" class="topic-list" aria-live="polite"></div>
+      </section>
+    </main>
+    <template id="topic-template">
+      <article class="topic-card">
+        <div class="topic-main">
+          <div class="topic-title-row">
+            <span class="topic-index"></span>
+            <h3></h3>
+          </div>
+          <p class="topic-summary"></p>
+          <div class="keyword-list"></div>
+        </div>
+        <div class="content-columns">
+          <section class="link-column source-links">
+            <h4>全网相关内容</h4>
+            <ul></ul>
+          </section>
+          <section class="link-column douyin-links">
+            <h4>抖音热视频 Top 5</h4>
+            <ul></ul>
+          </section>
+        </div>
+      </article>
+    </template>
+    <script src="./assets/app.js"></script>
+  </body>
+</html>
