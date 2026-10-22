@@ -1,0 +1,314 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T08:18:00.771042+08:00",
+  "sources": {
+    "bilibili": {
+      "status": "failed",
+      "count": 0,
+      "error": "412 Client Error: Precondition Failed for url: https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&order=click&page=1",
+      "collected_at": "2026-10-22T08:18:01.399331+08:00"
+    },
+    "weibo": {
+      "status": "ok",
+      "count": 1,
+      "error": null,
+      "collected_at": "2026-10-22T08:18:02.252435+08:00"
+    },
+    "hupu": {
+      "status": "ok",
+      "count": 30,
+      "error": null,
+      "collected_at": "2026-10-22T08:18:03.920676+08:00"
+    },
+    "douyin": {
+      "status": "failed",
+      "count": 0,
+      "error": "未配置 DOUYIN_HOT_API_URL",
+      "collected_at": "2026-10-22T08:18:03.921239+08:00"
+    }
+  },
+  "topics": [
+    {
+      "id": "topic-1",
+      "title": "AI工坊 879",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "ai",
+        "工坊",
+        "879",
+        "工坊"
+      ],
+      "items": [
+        {
+          "id": "hupu-a822dd295c81bcad",
+          "source": "hupu",
+          "title": "AI工坊 879",
+          "url": "https://bbs.hupu.com/871",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-2",
+      "title": "HLE婉拒TES",
+      "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "hle",
+        "婉拒",
+        "tes",
+        "婉拒",
+        "拒新"
+      ],
+      "items": [
+        {
+          "id": "weibo-73fff836c95b22ec",
+          "source": "weibo",
+          "title": "HLE婉拒TES",
+          "url": "https://s.weibo.com/weibo?q=%23HLE%E5%A9%89%E6%8B%92TES%23",
+          "description": "新",
+          "author": "",
+          "published_at": null,
+          "metrics": {
+            "hot_value": 192517,
+            "rank": 19
+          },
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-3",
+      "title": "MLB棒球场 34",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "mlb",
+        "棒球场",
+        "34",
+        "棒球",
+        "球场"
+      ],
+      "items": [
+        {
+          "id": "hupu-e48f3afe7c4f938a",
+          "source": "hupu",
+          "title": "MLB棒球场 34",
+          "url": "https://bbs.hupu.com/705",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-4",
+      "title": "NFL专区 218",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "nfl",
+        "专区",
+        "218",
+        "专区"
+      ],
+      "items": [
+        {
+          "id": "hupu-fc77520dac7c1d37",
+          "source": "hupu",
+          "title": "NFL专区 218",
+          "url": "https://bbs.hupu.com/nfl",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-5",
+      "title": "WWE专区 13",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "wwe",
+        "专区",
+        "13",
+        "专区"
+      ],
+      "items": [
+        {
+          "id": "hupu-99beff6e9162e813",
+          "source": "hupu",
+          "title": "WWE专区 13",
+          "url": "https://bbs.hupu.com/833",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-6",
+      "title": "乒乓球区 1.1w",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "乒乓球区",
+        "11w",
+        "乒乓",
+        "乓球",
+        "球区"
+      ],
+      "items": [
+        {
+          "id": "hupu-60677b2769016c15",
+          "source": "hupu",
+          "title": "乒乓球区 1.1w",
+          "url": "https://bbs.hupu.com/pingpang",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-7",
+      "title": "健身区 456",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "健身区",
+        "456",
+        "健身",
+        "身区"
+      ],
+      "items": [
+        {
+          "id": "hupu-d4230db0954b53b0",
+          "source": "hupu",
+          "title": "健身区 456",
+          "url": "https://bbs.hupu.com/fit",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-8",
+      "title": "动物萌宠区 179",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "动物萌宠区",
+        "179",
+        "动物",
+        "物萌",
+        "萌宠",
+        "宠区"
+      ],
+      "items": [
+        {
+          "id": "hupu-a0bb1e0cbfc2579e",
+          "source": "hupu",
+          "title": "动物萌宠区 179",
+          "url": "https://bbs.hupu.com/34",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-9",
+      "title": "历史区 4.2w",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "历史区",
+        "42w",
+        "历史",
+        "史区"
+      ],
+      "items": [
+        {
+          "id": "hupu-c2a2315c9e885c92",
+          "source": "hupu",
+          "title": "历史区 4.2w",
+          "url": "https://bbs.hupu.com/history",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-10",
+      "title": "台球区 1077",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "台球区",
+        "1077",
+        "台球",
+        "球区"
+      ],
+      "items": [
+        {
+          "id": "hupu-c37ce53807b6c718",
+          "source": "hupu",
+          "title": "台球区 1077",
+          "url": "https://bbs.hupu.com/billiards",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    }
+  ],
+  "meta": {
+    "cluster_mode": "local",
+    "item_count": 31
+  }
+}

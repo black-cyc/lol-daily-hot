@@ -1,48 +1,48 @@
 {
-  "date": "2026-10-21",
-  "generated_at": "2026-10-21T08:18:39.920838+08:00",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T08:18:00.771042+08:00",
   "sources": {
     "bilibili": {
       "status": "failed",
       "count": 0,
       "error": "412 Client Error: Precondition Failed for url: https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&order=click&page=1",
-      "collected_at": "2026-10-21T08:18:40.463741+08:00"
+      "collected_at": "2026-10-22T08:18:01.399331+08:00"
     },
     "weibo": {
       "status": "ok",
-      "count": 0,
+      "count": 1,
       "error": null,
-      "collected_at": "2026-10-21T08:18:41.268366+08:00"
+      "collected_at": "2026-10-22T08:18:02.252435+08:00"
     },
     "hupu": {
       "status": "ok",
       "count": 30,
       "error": null,
-      "collected_at": "2026-10-21T08:18:42.734782+08:00"
+      "collected_at": "2026-10-22T08:18:03.920676+08:00"
     },
     "douyin": {
       "status": "failed",
       "count": 0,
       "error": "未配置 DOUYIN_HOT_API_URL",
-      "collected_at": "2026-10-21T08:18:42.735239+08:00"
+      "collected_at": "2026-10-22T08:18:03.921239+08:00"
     }
   },
   "topics": [
     {
       "id": "topic-1",
-      "title": "AI工坊 770",
+      "title": "AI工坊 879",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "ai",
         "工坊",
-        "770",
+        "879",
         "工坊"
       ],
       "items": [
         {
           "id": "hupu-a822dd295c81bcad",
           "source": "hupu",
-          "title": "AI工坊 770",
+          "title": "AI工坊 879",
           "url": "https://bbs.hupu.com/871",
           "description": "",
           "author": "",
@@ -57,12 +57,43 @@
     },
     {
       "id": "topic-2",
-      "title": "MLB棒球场 52",
+      "title": "HLE婉拒TES",
+      "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "hle",
+        "婉拒",
+        "tes",
+        "婉拒",
+        "拒新"
+      ],
+      "items": [
+        {
+          "id": "weibo-73fff836c95b22ec",
+          "source": "weibo",
+          "title": "HLE婉拒TES",
+          "url": "https://s.weibo.com/weibo?q=%23HLE%E5%A9%89%E6%8B%92TES%23",
+          "description": "新",
+          "author": "",
+          "published_at": null,
+          "metrics": {
+            "hot_value": 192517,
+            "rank": 19
+          },
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-3",
+      "title": "MLB棒球场 34",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "mlb",
         "棒球场",
-        "52",
+        "34",
         "棒球",
         "球场"
       ],
@@ -70,7 +101,7 @@
         {
           "id": "hupu-e48f3afe7c4f938a",
           "source": "hupu",
-          "title": "MLB棒球场 52",
+          "title": "MLB棒球场 34",
           "url": "https://bbs.hupu.com/705",
           "description": "",
           "author": "",
@@ -84,20 +115,20 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-3",
-      "title": "NFL专区 591",
+      "id": "topic-4",
+      "title": "NFL专区 218",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "nfl",
         "专区",
-        "591",
+        "218",
         "专区"
       ],
       "items": [
         {
           "id": "hupu-fc77520dac7c1d37",
           "source": "hupu",
-          "title": "NFL专区 591",
+          "title": "NFL专区 218",
           "url": "https://bbs.hupu.com/nfl",
           "description": "",
           "author": "",
@@ -111,19 +142,20 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-4",
-      "title": "WWE专区 1",
+      "id": "topic-5",
+      "title": "WWE专区 13",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "wwe",
         "专区",
+        "13",
         "专区"
       ],
       "items": [
         {
           "id": "hupu-99beff6e9162e813",
           "source": "hupu",
-          "title": "WWE专区 1",
+          "title": "WWE专区 13",
           "url": "https://bbs.hupu.com/833",
           "description": "",
           "author": "",
@@ -137,12 +169,12 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-5",
-      "title": "乒乓球区 1.5w",
+      "id": "topic-6",
+      "title": "乒乓球区 1.1w",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "乒乓球区",
-        "15w",
+        "11w",
         "乒乓",
         "乓球",
         "球区"
@@ -151,7 +183,7 @@
         {
           "id": "hupu-60677b2769016c15",
           "source": "hupu",
-          "title": "乒乓球区 1.5w",
+          "title": "乒乓球区 1.1w",
           "url": "https://bbs.hupu.com/pingpang",
           "description": "",
           "author": "",
@@ -165,12 +197,12 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-6",
-      "title": "健身区 500",
+      "id": "topic-7",
+      "title": "健身区 456",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "健身区",
-        "500",
+        "456",
         "健身",
         "身区"
       ],
@@ -178,7 +210,7 @@
         {
           "id": "hupu-d4230db0954b53b0",
           "source": "hupu",
-          "title": "健身区 500",
+          "title": "健身区 456",
           "url": "https://bbs.hupu.com/fit",
           "description": "",
           "author": "",
@@ -192,12 +224,12 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-7",
-      "title": "动物萌宠区 144",
+      "id": "topic-8",
+      "title": "动物萌宠区 179",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "动物萌宠区",
-        "144",
+        "179",
         "动物",
         "物萌",
         "萌宠",
@@ -207,7 +239,7 @@
         {
           "id": "hupu-a0bb1e0cbfc2579e",
           "source": "hupu",
-          "title": "动物萌宠区 144",
+          "title": "动物萌宠区 179",
           "url": "https://bbs.hupu.com/34",
           "description": "",
           "author": "",
@@ -221,12 +253,12 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-8",
-      "title": "历史区 6.3w",
+      "id": "topic-9",
+      "title": "历史区 4.2w",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "历史区",
-        "63w",
+        "42w",
         "历史",
         "史区"
       ],
@@ -234,7 +266,7 @@
         {
           "id": "hupu-c2a2315c9e885c92",
           "source": "hupu",
-          "title": "历史区 6.3w",
+          "title": "历史区 4.2w",
           "url": "https://bbs.hupu.com/history",
           "description": "",
           "author": "",
@@ -248,12 +280,12 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-9",
-      "title": "台球区 3181",
+      "id": "topic-10",
+      "title": "台球区 1077",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "台球区",
-        "3181",
+        "1077",
         "台球",
         "球区"
       ],
@@ -261,35 +293,8 @@
         {
           "id": "hupu-c37ce53807b6c718",
           "source": "hupu",
-          "title": "台球区 3181",
+          "title": "台球区 1077",
           "url": "https://bbs.hupu.com/billiards",
-          "description": "",
-          "author": "",
-          "published_at": null,
-          "metrics": {},
-          "keywords": [
-            "英雄联盟"
-          ]
-        }
-      ],
-      "douyin_videos": []
-    },
-    {
-      "id": "topic-10",
-      "title": "围棋区 13",
-      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
-      "keywords": [
-        "围棋区",
-        "13",
-        "围棋",
-        "棋区"
-      ],
-      "items": [
-        {
-          "id": "hupu-d084d3604473c581",
-          "source": "hupu",
-          "title": "围棋区 13",
-          "url": "https://bbs.hupu.com/832",
           "description": "",
           "author": "",
           "published_at": null,
@@ -304,6 +309,6 @@
   ],
   "meta": {
     "cluster_mode": "local",
-    "item_count": 30
+    "item_count": 31
   }
 }
