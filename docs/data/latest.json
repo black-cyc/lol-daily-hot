@@ -1,73 +1,73 @@
 {
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T08:21:11.075352+08:00",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T08:14:26.206527+08:00",
   "sources": {
     "bilibili": {
       "status": "failed",
       "count": 0,
       "error": "412 Client Error: Precondition Failed for url: https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&order=click&page=1",
-      "collected_at": "2026-10-24T08:21:11.749904+08:00"
+      "collected_at": "2026-10-25T08:14:26.924615+08:00"
     },
     "weibo": {
       "status": "ok",
-      "count": 7,
+      "count": 6,
       "error": null,
-      "collected_at": "2026-10-24T08:21:12.679626+08:00"
+      "collected_at": "2026-10-25T08:14:27.929008+08:00"
     },
     "hupu": {
       "status": "ok",
       "count": 30,
       "error": null,
-      "collected_at": "2026-10-24T08:21:14.276008+08:00"
+      "collected_at": "2026-10-25T08:14:29.866728+08:00"
     },
     "douyin": {
       "status": "failed",
       "count": 0,
       "error": "未配置 DOUYIN_HOT_API_URL",
-      "collected_at": "2026-10-24T08:21:14.276755+08:00"
+      "collected_at": "2026-10-25T08:14:29.867654+08:00"
     }
   },
   "topics": [
     {
       "id": "topic-1",
-      "title": "BLG重量级爆冷",
+      "title": "iG拿下LPL在S16外战首胜",
       "summary": "该话题汇集了 2 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
-        "blg",
-        "重量级爆冷",
-        "重量",
-        "量级",
-        "级爆",
-        "爆冷"
+        "ig",
+        "拿下",
+        "lpl",
+        "s16",
+        "外战首胜",
+        "拿下"
       ],
       "items": [
         {
-          "id": "weibo-69dc037def2f5671",
+          "id": "weibo-b19d35ba5a3dc01d",
           "source": "weibo",
-          "title": "BLG重量级爆冷",
-          "url": "https://s.weibo.com/weibo?q=%23BLG%E9%87%8D%E9%87%8F%E7%BA%A7%E7%88%86%E5%86%B7%23",
+          "title": "iG拿下LPL在S16外战首胜",
+          "url": "https://s.weibo.com/weibo?q=%23iG%E6%8B%BF%E4%B8%8BLPL%E5%9C%A8S16%E5%A4%96%E6%88%98%E9%A6%96%E8%83%9C%23",
           "description": "",
           "author": "",
           "published_at": null,
           "metrics": {
-            "hot_value": 536901,
-            "rank": 5
+            "hot_value": 366621,
+            "rank": 14
           },
           "keywords": [
             "英雄联盟"
           ]
         },
         {
-          "id": "weibo-984d2c56ca943ff8",
+          "id": "weibo-8f5ea062dfd5beed",
           "source": "weibo",
-          "title": "BLG回应不敌MKOI",
-          "url": "https://s.weibo.com/weibo?q=%23BLG%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%95%8CMKOI%23",
-          "description": "新",
+          "title": "iG战胜TSW",
+          "url": "https://s.weibo.com/weibo?q=iG%E6%88%98%E8%83%9CTSW",
+          "description": "",
           "author": "",
           "published_at": null,
           "metrics": {
-            "hot_value": 272647,
-            "rank": 22
+            "hot_value": 203843,
+            "rank": 24
           },
           "keywords": [
             "英雄联盟"
@@ -78,67 +78,19 @@
     },
     {
       "id": "topic-2",
-      "title": "lpl瑞士轮首轮全败",
-      "summary": "该话题汇集了 2 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
-      "keywords": [
-        "lpl",
-        "瑞士轮首轮全败",
-        "瑞士",
-        "士轮",
-        "轮首",
-        "首轮"
-      ],
-      "items": [
-        {
-          "id": "weibo-6835cf0ad0adc7d1",
-          "source": "weibo",
-          "title": "lpl瑞士轮首轮全败",
-          "url": "https://s.weibo.com/weibo?q=%23lpl%E7%91%9E%E5%A3%AB%E8%BD%AE%E9%A6%96%E8%BD%AE%E5%85%A8%E8%B4%A5%23",
-          "description": "",
-          "author": "",
-          "published_at": null,
-          "metrics": {
-            "hot_value": 1923845,
-            "rank": 1
-          },
-          "keywords": [
-            "英雄联盟"
-          ]
-        },
-        {
-          "id": "weibo-5505e2bafe230205",
-          "source": "weibo",
-          "title": "LPL瑞士轮内战概率很大",
-          "url": "https://s.weibo.com/weibo?q=%23LPL%E7%91%9E%E5%A3%AB%E8%BD%AE%E5%86%85%E6%88%98%E6%A6%82%E7%8E%87%E5%BE%88%E5%A4%A7%23",
-          "description": "新",
-          "author": "",
-          "published_at": null,
-          "metrics": {
-            "hot_value": 254035,
-            "rank": 31
-          },
-          "keywords": [
-            "英雄联盟"
-          ]
-        }
-      ],
-      "douyin_videos": []
-    },
-    {
-      "id": "topic-3",
-      "title": "AI工坊 1032",
+      "title": "AI工坊 1083",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "ai",
         "工坊",
-        "1032",
+        "1083",
         "工坊"
       ],
       "items": [
         {
           "id": "hupu-a822dd295c81bcad",
           "source": "hupu",
-          "title": "AI工坊 1032",
+          "title": "AI工坊 1083",
           "url": "https://bbs.hupu.com/871",
           "description": "",
           "author": "",
@@ -152,27 +104,29 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-4",
-      "title": "GEN翻盘iG",
+      "id": "topic-3",
+      "title": "Meiko回应iG阵容选择及前期失误",
       "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
-        "gen",
-        "翻盘",
+        "meiko",
+        "回应",
         "ig",
-        "翻盘"
+        "阵容选择及前期失误新",
+        "回应",
+        "应阵"
       ],
       "items": [
         {
-          "id": "weibo-e35a732c2aff8049",
+          "id": "weibo-1eef5c361dda11d7",
           "source": "weibo",
-          "title": "GEN翻盘iG",
-          "url": "https://s.weibo.com/weibo?q=%23GEN%E7%BF%BB%E7%9B%98iG%23",
-          "description": "",
+          "title": "Meiko回应iG阵容选择及前期失误",
+          "url": "https://s.weibo.com/weibo?q=%23Meiko%E5%9B%9E%E5%BA%94iG%E9%98%B5%E5%AE%B9%E9%80%89%E6%8B%A9%E5%8F%8A%E5%89%8D%E6%9C%9F%E5%A4%B1%E8%AF%AF%23",
+          "description": "新",
           "author": "",
           "published_at": null,
           "metrics": {
-            "hot_value": 124139,
-            "rank": 48
+            "hot_value": 91628,
+            "rank": 46
           },
           "keywords": [
             "英雄联盟"
@@ -182,13 +136,13 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-5",
-      "title": "MLB棒球场 52",
+      "id": "topic-4",
+      "title": "MLB棒球场 30",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "mlb",
         "棒球场",
-        "52",
+        "30",
         "棒球",
         "球场"
       ],
@@ -196,7 +150,7 @@
         {
           "id": "hupu-e48f3afe7c4f938a",
           "source": "hupu",
-          "title": "MLB棒球场 52",
+          "title": "MLB棒球场 30",
           "url": "https://bbs.hupu.com/705",
           "description": "",
           "author": "",
@@ -210,25 +164,57 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-6",
-      "title": "NFL专区 204",
+      "id": "topic-5",
+      "title": "NFL专区 244",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "nfl",
         "专区",
-        "204",
+        "244",
         "专区"
       ],
       "items": [
         {
           "id": "hupu-fc77520dac7c1d37",
           "source": "hupu",
-          "title": "NFL专区 204",
+          "title": "NFL专区 244",
           "url": "https://bbs.hupu.com/nfl",
           "description": "",
           "author": "",
           "published_at": null,
           "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-6",
+      "title": "TES拿下LPL在S16首胜",
+      "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "tes",
+        "拿下",
+        "lpl",
+        "s16",
+        "首胜",
+        "拿下"
+      ],
+      "items": [
+        {
+          "id": "weibo-97788d872cfc85e6",
+          "source": "weibo",
+          "title": "TES拿下LPL在S16首胜",
+          "url": "https://s.weibo.com/weibo?q=%23TES%E6%8B%BF%E4%B8%8BLPL%E5%9C%A8S16%E9%A6%96%E8%83%9C%23",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {
+            "hot_value": 180138,
+            "rank": 26
+          },
           "keywords": [
             "英雄联盟"
           ]
@@ -265,11 +251,11 @@
     },
     {
       "id": "topic-8",
-      "title": "乒乓球区 1.3w",
+      "title": "乒乓球区 9259",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "乒乓球区",
-        "13w",
+        "9259",
         "乒乓",
         "乓球",
         "球区"
@@ -278,7 +264,7 @@
         {
           "id": "hupu-60677b2769016c15",
           "source": "hupu",
-          "title": "乒乓球区 1.3w",
+          "title": "乒乓球区 9259",
           "url": "https://bbs.hupu.com/pingpang",
           "description": "",
           "author": "",
@@ -293,29 +279,24 @@
     },
     {
       "id": "topic-9",
-      "title": "众解说看LPL瑞士轮四连败反应",
-      "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "title": "健身区 387",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
-        "众解说看",
-        "lpl",
-        "瑞士轮四连败反应新",
-        "众解",
-        "解说",
-        "说看"
+        "健身区",
+        "387",
+        "健身",
+        "身区"
       ],
       "items": [
         {
-          "id": "weibo-8af818ae523fb7fb",
-          "source": "weibo",
-          "title": "众解说看LPL瑞士轮四连败反应",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%97%E8%A7%A3%E8%AF%B4%E7%9C%8BLPL%E7%91%9E%E5%A3%AB%E8%BD%AE%E5%9B%9B%E8%BF%9E%E8%B4%A5%E5%8F%8D%E5%BA%94%23",
-          "description": "新",
+          "id": "hupu-d4230db0954b53b0",
+          "source": "hupu",
+          "title": "健身区 387",
+          "url": "https://bbs.hupu.com/fit",
+          "description": "",
           "author": "",
           "published_at": null,
-          "metrics": {
-            "hot_value": 326359,
-            "rank": 6
-          },
+          "metrics": {},
           "keywords": [
             "英雄联盟"
           ]
@@ -325,20 +306,22 @@
     },
     {
       "id": "topic-10",
-      "title": "健身区 401",
+      "title": "动物萌宠区 40",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
-        "健身区",
-        "401",
-        "健身",
-        "身区"
+        "动物萌宠区",
+        "40",
+        "动物",
+        "物萌",
+        "萌宠",
+        "宠区"
       ],
       "items": [
         {
-          "id": "hupu-d4230db0954b53b0",
+          "id": "hupu-a0bb1e0cbfc2579e",
           "source": "hupu",
-          "title": "健身区 401",
-          "url": "https://bbs.hupu.com/fit",
+          "title": "动物萌宠区 40",
+          "url": "https://bbs.hupu.com/34",
           "description": "",
           "author": "",
           "published_at": null,
@@ -353,6 +336,6 @@
   ],
   "meta": {
     "cluster_mode": "local",
-    "item_count": 37
+    "item_count": 36
   }
 }
