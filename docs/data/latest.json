@@ -1,73 +1,89 @@
 {
-  "date": "2026-10-25",
-  "generated_at": "2026-10-25T08:14:26.206527+08:00",
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T08:20:30.742958+08:00",
   "sources": {
     "bilibili": {
       "status": "failed",
       "count": 0,
       "error": "412 Client Error: Precondition Failed for url: https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&order=click&page=1",
-      "collected_at": "2026-10-25T08:14:26.924615+08:00"
+      "collected_at": "2026-10-26T08:20:31.340240+08:00"
     },
     "weibo": {
       "status": "ok",
       "count": 6,
       "error": null,
-      "collected_at": "2026-10-25T08:14:27.929008+08:00"
+      "collected_at": "2026-10-26T08:20:32.268233+08:00"
     },
     "hupu": {
       "status": "ok",
       "count": 30,
       "error": null,
-      "collected_at": "2026-10-25T08:14:29.866728+08:00"
+      "collected_at": "2026-10-26T08:20:34.048439+08:00"
     },
     "douyin": {
       "status": "failed",
       "count": 0,
       "error": "未配置 DOUYIN_HOT_API_URL",
-      "collected_at": "2026-10-25T08:14:29.867654+08:00"
+      "collected_at": "2026-10-26T08:20:34.049030+08:00"
     }
   },
   "topics": [
     {
       "id": "topic-1",
-      "title": "iG拿下LPL在S16外战首胜",
-      "summary": "该话题汇集了 2 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "title": "iG与TES双双晋级2-1组",
+      "summary": "该话题汇集了 3 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "ig",
-        "拿下",
-        "lpl",
-        "s16",
-        "外战首胜",
-        "拿下"
+        "tes",
+        "双双晋级",
+        "21",
+        "与双",
+        "双双"
       ],
       "items": [
         {
-          "id": "weibo-b19d35ba5a3dc01d",
+          "id": "weibo-78dcf824c2c967d7",
           "source": "weibo",
-          "title": "iG拿下LPL在S16外战首胜",
-          "url": "https://s.weibo.com/weibo?q=%23iG%E6%8B%BF%E4%B8%8BLPL%E5%9C%A8S16%E5%A4%96%E6%88%98%E9%A6%96%E8%83%9C%23",
+          "title": "iG与TES双双晋级2-1组",
+          "url": "https://s.weibo.com/weibo?q=iG%E4%B8%8ETES%E5%8F%8C%E5%8F%8C%E6%99%8B%E7%BA%A72-1%E7%BB%84",
           "description": "",
           "author": "",
           "published_at": null,
           "metrics": {
-            "hot_value": 366621,
-            "rank": 14
+            "hot_value": 438301,
+            "rank": 4
           },
           "keywords": [
             "英雄联盟"
           ]
         },
         {
-          "id": "weibo-8f5ea062dfd5beed",
+          "id": "weibo-3075a98a44c80f27",
           "source": "weibo",
-          "title": "iG战胜TSW",
-          "url": "https://s.weibo.com/weibo?q=iG%E6%88%98%E8%83%9CTSW",
+          "title": "iG战胜HLE",
+          "url": "https://s.weibo.com/weibo?q=%23iG%E6%88%98%E8%83%9CHLE%23",
+          "description": "新",
+          "author": "",
+          "published_at": null,
+          "metrics": {
+            "hot_value": 323041,
+            "rank": 7
+          },
+          "keywords": [
+            "英雄联盟"
+          ]
+        },
+        {
+          "id": "weibo-8e769e18fc48544e",
+          "source": "weibo",
+          "title": "iG战胜HLE晋级2-1组",
+          "url": "https://s.weibo.com/weibo?q=iG%E6%88%98%E8%83%9CHLE%E6%99%8B%E7%BA%A72-1%E7%BB%84",
           "description": "",
           "author": "",
           "published_at": null,
           "metrics": {
-            "hot_value": 203843,
-            "rank": 24
+            "hot_value": 107848,
+            "rank": 44
           },
           "keywords": [
             "英雄联盟"
@@ -78,19 +94,19 @@
     },
     {
       "id": "topic-2",
-      "title": "AI工坊 1083",
+      "title": "AI工坊 1298",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "ai",
         "工坊",
-        "1083",
+        "1298",
         "工坊"
       ],
       "items": [
         {
           "id": "hupu-a822dd295c81bcad",
           "source": "hupu",
-          "title": "AI工坊 1083",
+          "title": "AI工坊 1298",
           "url": "https://bbs.hupu.com/871",
           "description": "",
           "author": "",
@@ -105,44 +121,12 @@
     },
     {
       "id": "topic-3",
-      "title": "Meiko回应iG阵容选择及前期失误",
-      "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
-      "keywords": [
-        "meiko",
-        "回应",
-        "ig",
-        "阵容选择及前期失误新",
-        "回应",
-        "应阵"
-      ],
-      "items": [
-        {
-          "id": "weibo-1eef5c361dda11d7",
-          "source": "weibo",
-          "title": "Meiko回应iG阵容选择及前期失误",
-          "url": "https://s.weibo.com/weibo?q=%23Meiko%E5%9B%9E%E5%BA%94iG%E9%98%B5%E5%AE%B9%E9%80%89%E6%8B%A9%E5%8F%8A%E5%89%8D%E6%9C%9F%E5%A4%B1%E8%AF%AF%23",
-          "description": "新",
-          "author": "",
-          "published_at": null,
-          "metrics": {
-            "hot_value": 91628,
-            "rank": 46
-          },
-          "keywords": [
-            "英雄联盟"
-          ]
-        }
-      ],
-      "douyin_videos": []
-    },
-    {
-      "id": "topic-4",
-      "title": "MLB棒球场 30",
+      "title": "MLB棒球场 32",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "mlb",
         "棒球场",
-        "30",
+        "32",
         "棒球",
         "球场"
       ],
@@ -150,7 +134,7 @@
         {
           "id": "hupu-e48f3afe7c4f938a",
           "source": "hupu",
-          "title": "MLB棒球场 30",
+          "title": "MLB棒球场 32",
           "url": "https://bbs.hupu.com/705",
           "description": "",
           "author": "",
@@ -164,20 +148,20 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-5",
-      "title": "NFL专区 244",
+      "id": "topic-4",
+      "title": "NFL专区 837",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "nfl",
         "专区",
-        "244",
+        "837",
         "专区"
       ],
       "items": [
         {
           "id": "hupu-fc77520dac7c1d37",
           "source": "hupu",
-          "title": "NFL专区 244",
+          "title": "NFL专区 837",
           "url": "https://bbs.hupu.com/nfl",
           "description": "",
           "author": "",
@@ -191,29 +175,27 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-6",
-      "title": "TES拿下LPL在S16首胜",
+      "id": "topic-5",
+      "title": "TES战胜G2",
       "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "tes",
-        "拿下",
-        "lpl",
-        "s16",
-        "首胜",
-        "拿下"
+        "战胜",
+        "g2",
+        "战胜"
       ],
       "items": [
         {
-          "id": "weibo-97788d872cfc85e6",
+          "id": "weibo-d569e47e6008b421",
           "source": "weibo",
-          "title": "TES拿下LPL在S16首胜",
-          "url": "https://s.weibo.com/weibo?q=%23TES%E6%8B%BF%E4%B8%8BLPL%E5%9C%A8S16%E9%A6%96%E8%83%9C%23",
+          "title": "TES战胜G2",
+          "url": "https://s.weibo.com/weibo?q=TES%E6%88%98%E8%83%9CG2",
           "description": "",
           "author": "",
           "published_at": null,
           "metrics": {
-            "hot_value": 180138,
-            "rank": 26
+            "hot_value": 192800,
+            "rank": 23
           },
           "keywords": [
             "英雄联盟"
@@ -223,20 +205,19 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-7",
-      "title": "WWE专区 13",
+      "id": "topic-6",
+      "title": "WWE专区 3",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "wwe",
         "专区",
-        "13",
         "专区"
       ],
       "items": [
         {
           "id": "hupu-99beff6e9162e813",
           "source": "hupu",
-          "title": "WWE专区 13",
+          "title": "WWE专区 3",
           "url": "https://bbs.hupu.com/833",
           "description": "",
           "author": "",
@@ -250,12 +231,12 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-8",
-      "title": "乒乓球区 9259",
+      "id": "topic-7",
+      "title": "乒乓球区 2.9w",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "乒乓球区",
-        "9259",
+        "29w",
         "乒乓",
         "乓球",
         "球区"
@@ -264,7 +245,7 @@
         {
           "id": "hupu-60677b2769016c15",
           "source": "hupu",
-          "title": "乒乓球区 9259",
+          "title": "乒乓球区 2.9w",
           "url": "https://bbs.hupu.com/pingpang",
           "description": "",
           "author": "",
@@ -278,12 +259,44 @@
       "douyin_videos": []
     },
     {
+      "id": "topic-8",
+      "title": "众解说看iG战胜HLE反应",
+      "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "众解说看",
+        "ig",
+        "战胜",
+        "hle",
+        "反应",
+        "众解"
+      ],
+      "items": [
+        {
+          "id": "weibo-83922e3f1cfea924",
+          "source": "weibo",
+          "title": "众解说看iG战胜HLE反应",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%97%E8%A7%A3%E8%AF%B4%E7%9C%8BiG%E6%88%98%E8%83%9CHLE%E5%8F%8D%E5%BA%94%23",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {
+            "hot_value": 209696,
+            "rank": 9
+          },
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
       "id": "topic-9",
-      "title": "健身区 387",
+      "title": "健身区 546",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "健身区",
-        "387",
+        "546",
         "健身",
         "身区"
       ],
@@ -291,7 +304,7 @@
         {
           "id": "hupu-d4230db0954b53b0",
           "source": "hupu",
-          "title": "健身区 387",
+          "title": "健身区 546",
           "url": "https://bbs.hupu.com/fit",
           "description": "",
           "author": "",
@@ -306,11 +319,11 @@
     },
     {
       "id": "topic-10",
-      "title": "动物萌宠区 40",
+      "title": "动物萌宠区 35",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "动物萌宠区",
-        "40",
+        "35",
         "动物",
         "物萌",
         "萌宠",
@@ -320,7 +333,7 @@
         {
           "id": "hupu-a0bb1e0cbfc2579e",
           "source": "hupu",
-          "title": "动物萌宠区 40",
+          "title": "动物萌宠区 35",
           "url": "https://bbs.hupu.com/34",
           "description": "",
           "author": "",
