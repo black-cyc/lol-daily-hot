@@ -1,0 +1,331 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T08:21:13.228902+08:00",
+  "sources": {
+    "bilibili": {
+      "status": "failed",
+      "count": 0,
+      "error": "412 Client Error: Precondition Failed for url: https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&order=click&page=1",
+      "collected_at": "2026-10-27T08:21:13.909576+08:00"
+    },
+    "weibo": {
+      "status": "ok",
+      "count": 5,
+      "error": null,
+      "collected_at": "2026-10-27T08:21:14.797523+08:00"
+    },
+    "hupu": {
+      "status": "ok",
+      "count": 30,
+      "error": null,
+      "collected_at": "2026-10-27T08:21:16.588754+08:00"
+    },
+    "douyin": {
+      "status": "failed",
+      "count": 0,
+      "error": "未配置 DOUYIN_HOT_API_URL",
+      "collected_at": "2026-10-27T08:21:16.589509+08:00"
+    }
+  },
+  "topics": [
+    {
+      "id": "topic-1",
+      "title": "AI工坊 1298",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "ai",
+        "工坊",
+        "1298",
+        "工坊"
+      ],
+      "items": [
+        {
+          "id": "hupu-a822dd295c81bcad",
+          "source": "hupu",
+          "title": "AI工坊 1298",
+          "url": "https://bbs.hupu.com/871",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-2",
+      "title": "AL史上最差成绩LPL队伍",
+      "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "al",
+        "史上最差成绩",
+        "lpl",
+        "队伍新",
+        "史上",
+        "上最"
+      ],
+      "items": [
+        {
+          "id": "weibo-f908acc78448061e",
+          "source": "weibo",
+          "title": "AL史上最差成绩LPL队伍",
+          "url": "https://s.weibo.com/weibo?q=%23AL%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%B7%AE%E6%88%90%E7%BB%A9LPL%E9%98%9F%E4%BC%8D%23",
+          "description": "新",
+          "author": "",
+          "published_at": null,
+          "metrics": {
+            "hot_value": 1061025,
+            "rank": 1
+          },
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-3",
+      "title": "BLG战胜KC",
+      "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "blg",
+        "战胜",
+        "kc",
+        "战胜",
+        "胜新"
+      ],
+      "items": [
+        {
+          "id": "weibo-bbc19b5864edb3f5",
+          "source": "weibo",
+          "title": "BLG战胜KC",
+          "url": "https://s.weibo.com/weibo?q=BLG%E6%88%98%E8%83%9CKC",
+          "description": "新",
+          "author": "",
+          "published_at": null,
+          "metrics": {
+            "hot_value": 245700,
+            "rank": 17
+          },
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-4",
+      "title": "LPL连续两年一号种子止步16强",
+      "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "lpl",
+        "连续两年一号种子止步",
+        "16",
+        "强新",
+        "连续",
+        "续两"
+      ],
+      "items": [
+        {
+          "id": "weibo-04f86d0a1ae6e797",
+          "source": "weibo",
+          "title": "LPL连续两年一号种子止步16强",
+          "url": "https://s.weibo.com/weibo?q=%23LPL%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%B9%B4%E4%B8%80%E5%8F%B7%E7%A7%8D%E5%AD%90%E6%AD%A2%E6%AD%A516%E5%BC%BA%23",
+          "description": "新",
+          "author": "",
+          "published_at": null,
+          "metrics": {
+            "hot_value": 178742,
+            "rank": 34
+          },
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-5",
+      "title": "MLB棒球场 27",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "mlb",
+        "棒球场",
+        "27",
+        "棒球",
+        "球场"
+      ],
+      "items": [
+        {
+          "id": "hupu-e48f3afe7c4f938a",
+          "source": "hupu",
+          "title": "MLB棒球场 27",
+          "url": "https://bbs.hupu.com/705",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-6",
+      "title": "NFL专区 476",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "nfl",
+        "专区",
+        "476",
+        "专区"
+      ],
+      "items": [
+        {
+          "id": "hupu-fc77520dac7c1d37",
+          "source": "hupu",
+          "title": "NFL专区 476",
+          "url": "https://bbs.hupu.com/nfl",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-7",
+      "title": "T1大概率抽到LPL",
+      "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "t1",
+        "大概率抽到",
+        "lpl",
+        "大概",
+        "概率",
+        "率抽"
+      ],
+      "items": [
+        {
+          "id": "weibo-d549c71d0add41a7",
+          "source": "weibo",
+          "title": "T1大概率抽到LPL",
+          "url": "https://s.weibo.com/weibo?q=%23T1%E5%A4%A7%E6%A6%82%E7%8E%87%E6%8A%BD%E5%88%B0LPL%23",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {
+            "hot_value": 162908,
+            "rank": 38
+          },
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-8",
+      "title": "TES又在瑞士轮打BLG",
+      "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "tes",
+        "又在瑞士轮打",
+        "blg",
+        "又在",
+        "在瑞",
+        "瑞士"
+      ],
+      "items": [
+        {
+          "id": "weibo-1392bd446d0ea1ca",
+          "source": "weibo",
+          "title": "TES又在瑞士轮打BLG",
+          "url": "https://s.weibo.com/weibo?q=%23TES%E5%8F%88%E5%9C%A8%E7%91%9E%E5%A3%AB%E8%BD%AE%E6%89%93BLG%23",
+          "description": "新",
+          "author": "",
+          "published_at": null,
+          "metrics": {
+            "hot_value": 413879,
+            "rank": 11
+          },
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-9",
+      "title": "WWE专区 0",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "wwe",
+        "专区",
+        "专区"
+      ],
+      "items": [
+        {
+          "id": "hupu-99beff6e9162e813",
+          "source": "hupu",
+          "title": "WWE专区 0",
+          "url": "https://bbs.hupu.com/833",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-10",
+      "title": "乒乓球区 3.8w",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "乒乓球区",
+        "38w",
+        "乒乓",
+        "乓球",
+        "球区"
+      ],
+      "items": [
+        {
+          "id": "hupu-60677b2769016c15",
+          "source": "hupu",
+          "title": "乒乓球区 3.8w",
+          "url": "https://bbs.hupu.com/pingpang",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    }
+  ],
+  "meta": {
+    "cluster_mode": "local",
+    "item_count": 35
+  }
+}
