@@ -1,71 +1,55 @@
 {
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T08:28:28.887107+08:00",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T08:29:30.058680+08:00",
   "sources": {
     "bilibili": {
-      "status": "ok",
-      "count": 20,
-      "error": null,
-      "collected_at": "2026-10-29T08:28:29.505488+08:00"
+      "status": "failed",
+      "count": 0,
+      "error": "412 Client Error: Precondition Failed for url: https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&order=click&page=1",
+      "collected_at": "2026-10-30T08:29:30.603197+08:00"
     },
     "weibo": {
       "status": "ok",
-      "count": 4,
+      "count": 3,
       "error": null,
-      "collected_at": "2026-10-29T08:28:30.223834+08:00"
+      "collected_at": "2026-10-30T08:29:31.577406+08:00"
     },
     "hupu": {
       "status": "ok",
       "count": 30,
       "error": null,
-      "collected_at": "2026-10-29T08:28:31.895145+08:00"
+      "collected_at": "2026-10-30T08:29:33.511826+08:00"
     },
     "douyin": {
       "status": "failed",
       "count": 0,
       "error": "未配置 DOUYIN_HOT_API_URL",
-      "collected_at": "2026-10-29T08:28:31.895911+08:00"
+      "collected_at": "2026-10-30T08:29:33.512425+08:00"
     }
   },
   "topics": [
     {
       "id": "topic-1",
-      "title": "LYON对战IG",
-      "summary": "该话题汇集了 2 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "title": "369单杀Knight",
+      "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
-        "lyon",
-        "对战",
-        "ig",
-        "对战",
-        "战新"
+        "369",
+        "单杀",
+        "knight",
+        "单杀",
+        "杀新"
       ],
       "items": [
         {
-          "id": "weibo-a1f8dd402c50e51c",
+          "id": "weibo-b517b96d24858882",
           "source": "weibo",
-          "title": "LYON对战IG",
-          "url": "https://s.weibo.com/weibo?q=%23LYON%E5%AF%B9%E6%88%98IG%23",
+          "title": "369单杀Knight",
+          "url": "https://s.weibo.com/weibo?q=%23369%E5%8D%95%E6%9D%80Knight%23",
           "description": "新",
           "author": "",
           "published_at": null,
           "metrics": {
-            "hot_value": 310780,
-            "rank": 13
-          },
-          "keywords": [
-            "英雄联盟"
-          ]
-        },
-        {
-          "id": "weibo-34ce06061397faf4",
-          "source": "weibo",
-          "title": "LYON一比一扳平iG",
-          "url": "https://s.weibo.com/weibo?q=%23LYON%E4%B8%80%E6%AF%94%E4%B8%80%E6%89%B3%E5%B9%B3iG%23",
-          "description": "新",
-          "author": "",
-          "published_at": null,
-          "metrics": {
-            "hot_value": 187225,
+            "hot_value": 252407,
             "rank": 30
           },
           "keywords": [
@@ -77,195 +61,19 @@
     },
     {
       "id": "topic-2",
-      "title": "[S8全球总决赛] 11月3日 FNC vs iG",
-      "summary": "该话题汇集了 2 条来自 bilibili 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
-      "keywords": [
-        "s8",
-        "全球总决赛",
-        "11",
-        "fncvsigs8",
-        "全球总决赛",
-        "11"
-      ],
-      "items": [
-        {
-          "id": "bilibili-397959004d62e5b9",
-          "source": "bilibili",
-          "title": "[S8全球总决赛] 11月3日 FNC vs iG",
-          "url": "http://www.bilibili.com/video/av35199206",
-          "description": "[S8全球总决赛] 11月3日 FNC vs iG",
-          "author": "哔哩哔哩英雄联盟赛事",
-          "published_at": "2018-11-03T09:23:20+00:00",
-          "metrics": {
-            "views": 32039918,
-            "comments": 428866
-          },
-          "keywords": [
-            "英雄联盟"
-          ]
-        },
-        {
-          "id": "bilibili-fa304b5495590ee7",
-          "source": "bilibili",
-          "title": "[S8全球总决赛] 10月27日 G2 vs iG",
-          "url": "http://www.bilibili.com/video/av34717870",
-          "description": "[S8全球总决赛] 10月27日 G2 vs iG",
-          "author": "哔哩哔哩英雄联盟赛事",
-          "published_at": "2018-10-27T12:01:26+00:00",
-          "metrics": {
-            "views": 19050208,
-            "comments": 197630
-          },
-          "keywords": [
-            "英雄联盟"
-          ]
-        }
-      ],
-      "douyin_videos": []
-    },
-    {
-      "id": "topic-3",
-      "title": "【 英雄联盟 】2018全球总决赛MV—登峰造极境 Ri...",
-      "summary": "该话题汇集了 1 条来自 bilibili 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
-      "keywords": [
-        "2018",
-        "全球总决赛",
-        "mv",
-        "登峰造极境",
-        "rise",
-        "2018"
-      ],
-      "items": [
-        {
-          "id": "bilibili-abe8e3354e00cc18",
-          "source": "bilibili",
-          "title": "【 英雄联盟 】2018全球总决赛MV—登峰造极境 Rise",
-          "url": "http://www.bilibili.com/video/av32504233",
-          "description": "【英雄联盟】2018全球总决赛MV—登峰造极境 登顶不仅需要技巧的磨炼，更需要追求“登峰造极境”的雄心壮志。2017全球总决赛，征战7年的老将安掌门率队击败Perks所在的G2，攀峰路上虽被@UziQAQ 重创，但他最终还是来到山巅，挑战三冠王Faker，弑神复仇！#2018全球总决赛#即将到来，谁将登峰造极境？ “登峰造极境” 音乐参与：The Glitch Mob、Mako、The Word Alive 创作团队：拳头游戏音乐团队 及 Alex Seaver of Mako 额外创作：Justin T",
-          "author": "英雄联盟",
-          "published_at": "2018-09-26T13:00:33+00:00",
-          "metrics": {
-            "views": 29193930,
-            "comments": 85191
-          },
-          "keywords": [
-            "英雄联盟"
-          ]
-        }
-      ],
-      "douyin_videos": []
-    },
-    {
-      "id": "topic-4",
-      "title": "【 英雄联盟 】2019全球总决赛MV《涅槃》",
-      "summary": "该话题汇集了 1 条来自 bilibili 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
-      "keywords": [
-        "2019",
-        "全球总决赛",
-        "mv",
-        "涅槃",
-        "s9",
-        "全球总决赛主题曲"
-      ],
-      "items": [
-        {
-          "id": "bilibili-fd720b1f9b774709",
-          "source": "bilibili",
-          "title": "【 英雄联盟 】2019全球总决赛MV《涅槃》",
-          "url": "http://www.bilibili.com/video/av70615753",
-          "description": "#S9全球总决赛主题曲#【2019全球总决赛MV《涅槃》】你要何去何从，向前是涅槃还是向后是平庸 ，不死的火鸟，张开双翼，开创新的王朝！埋葬你的心魔，挣脱束缚的枷锁，不死的火鸟，对这世界的宣告他的重生。斩断疑虑，直面未来！ ************************************************ 《涅槃》 演唱：Cailin Russo和@Chrissy-Costanza 作曲：Mako组合Alex Seaver和拳头游戏音乐团队 制作：拳头游戏音乐团队和Mako组合Ale",
-          "author": "英雄联盟",
-          "published_at": "2019-10-08T19:58:50+00:00",
-          "metrics": {
-            "views": 17682775,
-            "comments": 34127
-          },
-          "keywords": [
-            "英雄联盟"
-          ]
-        }
-      ],
-      "douyin_videos": []
-    },
-    {
-      "id": "topic-5",
-      "title": "【 英雄联盟 】2021全球总决赛主题曲 《不可阻挡》",
-      "summary": "该话题汇集了 1 条来自 bilibili 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
-      "keywords": [
-        "2021",
-        "全球总决赛主题曲不可阻挡全新十年新的传奇正待书写下定决心的职业选手们汇聚于各自赛区的秘密训练基地在追寻突破自我的试炼中一种神奇变化正在悄然发生并逐渐席卷全球打破所有障碍我自有火光我将不可阻挡主打艺人",
-        "pvris",
-        "作词作曲拳头游戏音乐团队",
-        "alexseaverofmako",
-        "制作拳头游戏音乐团队混音"
-      ],
-      "items": [
-        {
-          "id": "bilibili-92f882d46ef0cdf5",
-          "source": "bilibili",
-          "title": "【 英雄联盟 】2021全球总决赛主题曲 《不可阻挡》",
-          "url": "http://www.bilibili.com/video/av718270291",
-          "description": "全新十年，新的传奇正待书写。下定决心的职业选手们，汇聚于各自赛区的秘密训练基地，在追寻突破自我的试炼中，一种神奇变化正在悄然发生，并逐渐席卷全球…… \"打破所有障碍，我自有火光，我将不可阻挡\" 主打艺人：PVRIS 作词作曲: 拳头游戏音乐团队、Alex Seaver of Mako 制作: 拳头游戏音乐团队 混音: Eric J、 拳头游戏音乐团队 母带: Mike Bozzi（Bernie Grundman录音棚） 演唱: PVRIS 演唱制作: 拳头游戏音乐团队、Alex Seaver o",
-          "author": "英雄联盟",
-          "published_at": "2021-09-29T00:00:19+00:00",
-          "metrics": {
-            "views": 21913521,
-            "comments": 34790
-          },
-          "keywords": [
-            "英雄联盟"
-          ]
-        }
-      ],
-      "douyin_videos": []
-    },
-    {
-      "id": "topic-6",
-      "title": "【 英雄联盟 】2023全球总决赛主题曲《登神》",
-      "summary": "该话题汇集了 1 条来自 bilibili 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
-      "keywords": [
-        "2023",
-        "全球总决赛主题曲登神",
-        "2023",
-        "英雄联盟全球总决赛主题曲动画",
-        "mv",
-        "登神命运敲响琴键哪怕一路艰险也要惊世如同闪电不再迷失我的心不畏崎岖待如今将不屈百炼成金"
-      ],
-      "items": [
-        {
-          "id": "bilibili-d15a830617028b1e",
-          "source": "bilibili",
-          "title": "【 英雄联盟 】2023全球总决赛主题曲《登神》",
-          "url": "http://www.bilibili.com/video/av704054090",
-          "description": "2023英雄联盟全球总决赛主题曲动画MV《登神》 命运敲响琴键 哪怕一路艰险 也要惊世如同闪电 不再迷失我的心 不畏崎岖待如今 将不屈 百炼成金",
-          "author": "英雄联盟",
-          "published_at": "2023-10-04T05:00:00+00:00",
-          "metrics": {
-            "views": 18617309,
-            "comments": 22856
-          },
-          "keywords": [
-            "英雄联盟"
-          ]
-        }
-      ],
-      "douyin_videos": []
-    },
-    {
-      "id": "topic-7",
-      "title": "AI工坊 904",
+      "title": "AI工坊 737",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "ai",
         "工坊",
-        "904",
+        "737",
         "工坊"
       ],
       "items": [
         {
           "id": "hupu-a822dd295c81bcad",
           "source": "hupu",
-          "title": "AI工坊 904",
+          "title": "AI工坊 737",
           "url": "https://bbs.hupu.com/871",
           "description": "",
           "author": "",
@@ -279,29 +87,170 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-8",
-      "title": "iG图三见",
+      "id": "topic-3",
+      "title": "BLG对战TES",
       "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
-        "ig",
-        "图三见新",
-        "图三",
-        "三见",
-        "见新"
+        "blg",
+        "对战",
+        "tes",
+        "对战",
+        "战新"
       ],
       "items": [
         {
-          "id": "weibo-18a9f4341d70302b",
+          "id": "weibo-113d47d4ea4b2e25",
           "source": "weibo",
-          "title": "iG图三见",
-          "url": "https://s.weibo.com/weibo?q=%23iG%E5%9B%BE%E4%B8%89%E8%A7%81%23",
+          "title": "BLG对战TES",
+          "url": "https://s.weibo.com/weibo?q=BLG%E5%AF%B9%E6%88%98TES",
           "description": "新",
           "author": "",
           "published_at": null,
           "metrics": {
-            "hot_value": 115963,
-            "rank": 45
+            "hot_value": 724917,
+            "rank": 4
           },
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-4",
+      "title": "MLB棒球场 310",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "mlb",
+        "棒球场",
+        "310",
+        "棒球",
+        "球场"
+      ],
+      "items": [
+        {
+          "id": "hupu-e48f3afe7c4f938a",
+          "source": "hupu",
+          "title": "MLB棒球场 310",
+          "url": "https://bbs.hupu.com/705",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-5",
+      "title": "NFL专区 332",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "nfl",
+        "专区",
+        "332",
+        "专区"
+      ],
+      "items": [
+        {
+          "id": "hupu-fc77520dac7c1d37",
+          "source": "hupu",
+          "title": "NFL专区 332",
+          "url": "https://bbs.hupu.com/nfl",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-6",
+      "title": "TES小天梦游",
+      "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "tes",
+        "小天梦游新",
+        "小天",
+        "天梦",
+        "梦游",
+        "游新"
+      ],
+      "items": [
+        {
+          "id": "weibo-acd79dbfe1e033ae",
+          "source": "weibo",
+          "title": "TES小天梦游",
+          "url": "https://s.weibo.com/weibo?q=%23TES%E5%B0%8F%E5%A4%A9%E6%A2%A6%E6%B8%B8%23",
+          "description": "新",
+          "author": "",
+          "published_at": null,
+          "metrics": {
+            "hot_value": 152612,
+            "rank": 40
+          },
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-7",
+      "title": "WWE专区 3",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "wwe",
+        "专区",
+        "专区"
+      ],
+      "items": [
+        {
+          "id": "hupu-99beff6e9162e813",
+          "source": "hupu",
+          "title": "WWE专区 3",
+          "url": "https://bbs.hupu.com/833",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-8",
+      "title": "乒乓球区 6463",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "乒乓球区",
+        "6463",
+        "乒乓",
+        "乓球",
+        "球区"
+      ],
+      "items": [
+        {
+          "id": "hupu-60677b2769016c15",
+          "source": "hupu",
+          "title": "乒乓球区 6463",
+          "url": "https://bbs.hupu.com/pingpang",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
           "keywords": [
             "英雄联盟"
           ]
@@ -311,29 +260,24 @@
     },
     {
       "id": "topic-9",
-      "title": "【 英雄联盟 】K/DA官方MV - \"MORE\"正式上...",
-      "summary": "该话题汇集了 1 条来自 bilibili 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "title": "健身区 489",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
-        "kda",
-        "官方",
-        "mvmore",
-        "正式上线",
-        "kda",
-        "官方"
+        "健身区",
+        "489",
+        "健身",
+        "身区"
       ],
       "items": [
         {
-          "id": "bilibili-5a634bfd128ff961",
-          "source": "bilibili",
-          "title": "【 英雄联盟 】K/DA官方MV - \"MORE\"正式上线",
-          "url": "http://www.bilibili.com/video/av372582594",
-          "description": "K/DA官方MV - \"MORE\"正式上线",
-          "author": "英雄联盟",
-          "published_at": "2020-10-28T14:03:08+00:00",
-          "metrics": {
-            "views": 21761070,
-            "comments": 30517
-          },
+          "id": "hupu-d4230db0954b53b0",
+          "source": "hupu",
+          "title": "健身区 489",
+          "url": "https://bbs.hupu.com/fit",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
           "keywords": [
             "英雄联盟"
           ]
@@ -343,21 +287,20 @@
     },
     {
       "id": "topic-10",
-      "title": "MLB棒球场 92",
+      "title": "历史区 4.1w",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
-        "mlb",
-        "棒球场",
-        "92",
-        "棒球",
-        "球场"
+        "历史区",
+        "41w",
+        "历史",
+        "史区"
       ],
       "items": [
         {
-          "id": "hupu-e48f3afe7c4f938a",
+          "id": "hupu-c2a2315c9e885c92",
           "source": "hupu",
-          "title": "MLB棒球场 92",
-          "url": "https://bbs.hupu.com/705",
+          "title": "历史区 4.1w",
+          "url": "https://bbs.hupu.com/history",
           "description": "",
           "author": "",
           "published_at": null,
@@ -372,6 +315,6 @@
   ],
   "meta": {
     "cluster_mode": "local",
-    "item_count": 54
+    "item_count": 33
   }
 }

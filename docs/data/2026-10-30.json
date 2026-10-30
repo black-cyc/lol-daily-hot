@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T08:29:30.058680+08:00",
+  "sources": {
+    "bilibili": {
+      "status": "failed",
+      "count": 0,
+      "error": "412 Client Error: Precondition Failed for url: https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&order=click&page=1",
+      "collected_at": "2026-10-30T08:29:30.603197+08:00"
+    },
+    "weibo": {
+      "status": "ok",
+      "count": 3,
+      "error": null,
+      "collected_at": "2026-10-30T08:29:31.577406+08:00"
+    },
+    "hupu": {
+      "status": "ok",
+      "count": 30,
+      "error": null,
+      "collected_at": "2026-10-30T08:29:33.511826+08:00"
+    },
+    "douyin": {
+      "status": "failed",
+      "count": 0,
+      "error": "未配置 DOUYIN_HOT_API_URL",
+      "collected_at": "2026-10-30T08:29:33.512425+08:00"
+    }
+  },
+  "topics": [
+    {
+      "id": "topic-1",
+      "title": "369单杀Knight",
+      "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "369",
+        "单杀",
+        "knight",
+        "单杀",
+        "杀新"
+      ],
+      "items": [
+        {
+          "id": "weibo-b517b96d24858882",
+          "source": "weibo",
+          "title": "369单杀Knight",
+          "url": "https://s.weibo.com/weibo?q=%23369%E5%8D%95%E6%9D%80Knight%23",
+          "description": "新",
+          "author": "",
+          "published_at": null,
+          "metrics": {
+            "hot_value": 252407,
+            "rank": 30
+          },
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-2",
+      "title": "AI工坊 737",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "ai",
+        "工坊",
+        "737",
+        "工坊"
+      ],
+      "items": [
+        {
+          "id": "hupu-a822dd295c81bcad",
+          "source": "hupu",
+          "title": "AI工坊 737",
+          "url": "https://bbs.hupu.com/871",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-3",
+      "title": "BLG对战TES",
+      "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "blg",
+        "对战",
+        "tes",
+        "对战",
+        "战新"
+      ],
+      "items": [
+        {
+          "id": "weibo-113d47d4ea4b2e25",
+          "source": "weibo",
+          "title": "BLG对战TES",
+          "url": "https://s.weibo.com/weibo?q=BLG%E5%AF%B9%E6%88%98TES",
+          "description": "新",
+          "author": "",
+          "published_at": null,
+          "metrics": {
+            "hot_value": 724917,
+            "rank": 4
+          },
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-4",
+      "title": "MLB棒球场 310",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "mlb",
+        "棒球场",
+        "310",
+        "棒球",
+        "球场"
+      ],
+      "items": [
+        {
+          "id": "hupu-e48f3afe7c4f938a",
+          "source": "hupu",
+          "title": "MLB棒球场 310",
+          "url": "https://bbs.hupu.com/705",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-5",
+      "title": "NFL专区 332",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "nfl",
+        "专区",
+        "332",
+        "专区"
+      ],
+      "items": [
+        {
+          "id": "hupu-fc77520dac7c1d37",
+          "source": "hupu",
+          "title": "NFL专区 332",
+          "url": "https://bbs.hupu.com/nfl",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-6",
+      "title": "TES小天梦游",
+      "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "tes",
+        "小天梦游新",
+        "小天",
+        "天梦",
+        "梦游",
+        "游新"
+      ],
+      "items": [
+        {
+          "id": "weibo-acd79dbfe1e033ae",
+          "source": "weibo",
+          "title": "TES小天梦游",
+          "url": "https://s.weibo.com/weibo?q=%23TES%E5%B0%8F%E5%A4%A9%E6%A2%A6%E6%B8%B8%23",
+          "description": "新",
+          "author": "",
+          "published_at": null,
+          "metrics": {
+            "hot_value": 152612,
+            "rank": 40
+          },
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-7",
+      "title": "WWE专区 3",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "wwe",
+        "专区",
+        "专区"
+      ],
+      "items": [
+        {
+          "id": "hupu-99beff6e9162e813",
+          "source": "hupu",
+          "title": "WWE专区 3",
+          "url": "https://bbs.hupu.com/833",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-8",
+      "title": "乒乓球区 6463",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "乒乓球区",
+        "6463",
+        "乒乓",
+        "乓球",
+        "球区"
+      ],
+      "items": [
+        {
+          "id": "hupu-60677b2769016c15",
+          "source": "hupu",
+          "title": "乒乓球区 6463",
+          "url": "https://bbs.hupu.com/pingpang",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-9",
+      "title": "健身区 489",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "健身区",
+        "489",
+        "健身",
+        "身区"
+      ],
+      "items": [
+        {
+          "id": "hupu-d4230db0954b53b0",
+          "source": "hupu",
+          "title": "健身区 489",
+          "url": "https://bbs.hupu.com/fit",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-10",
+      "title": "历史区 4.1w",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "历史区",
+        "41w",
+        "历史",
+        "史区"
+      ],
+      "items": [
+        {
+          "id": "hupu-c2a2315c9e885c92",
+          "source": "hupu",
+          "title": "历史区 4.1w",
+          "url": "https://bbs.hupu.com/history",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    }
+  ],
+  "meta": {
+    "cluster_mode": "local",
+    "item_count": 33
+  }
+}
