@@ -1,0 +1,358 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T08:33:48.129168+08:00",
+  "sources": {
+    "bilibili": {
+      "status": "ok",
+      "count": 20,
+      "error": null,
+      "collected_at": "2026-10-31T08:33:48.768057+08:00"
+    },
+    "weibo": {
+      "status": "ok",
+      "count": 1,
+      "error": null,
+      "collected_at": "2026-10-31T08:33:49.811391+08:00"
+    },
+    "hupu": {
+      "status": "ok",
+      "count": 30,
+      "error": null,
+      "collected_at": "2026-10-31T08:33:52.466961+08:00"
+    },
+    "douyin": {
+      "status": "failed",
+      "count": 0,
+      "error": "未配置 DOUYIN_HOT_API_URL",
+      "collected_at": "2026-10-31T08:33:52.467703+08:00"
+    }
+  },
+  "topics": [
+    {
+      "id": "topic-1",
+      "title": "[S8全球总决赛] 11月3日 FNC vs iG",
+      "summary": "该话题汇集了 2 条来自 bilibili 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "s8",
+        "全球总决赛",
+        "11",
+        "fncvsigs8",
+        "全球总决赛",
+        "11"
+      ],
+      "items": [
+        {
+          "id": "bilibili-397959004d62e5b9",
+          "source": "bilibili",
+          "title": "[S8全球总决赛] 11月3日 FNC vs iG",
+          "url": "http://www.bilibili.com/video/av35199206",
+          "description": "[S8全球总决赛] 11月3日 FNC vs iG",
+          "author": "哔哩哔哩英雄联盟赛事",
+          "published_at": "2018-11-03T09:23:20+00:00",
+          "metrics": {
+            "views": 32065748,
+            "comments": 429027
+          },
+          "keywords": [
+            "英雄联盟"
+          ]
+        },
+        {
+          "id": "bilibili-fa304b5495590ee7",
+          "source": "bilibili",
+          "title": "[S8全球总决赛] 10月27日 G2 vs iG",
+          "url": "http://www.bilibili.com/video/av34717870",
+          "description": "[S8全球总决赛] 10月27日 G2 vs iG",
+          "author": "哔哩哔哩英雄联盟赛事",
+          "published_at": "2018-10-27T12:01:26+00:00",
+          "metrics": {
+            "views": 19059748,
+            "comments": 197655
+          },
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-2",
+      "title": "【 英雄联盟 】2018全球总决赛MV—登峰造极境 Ri...",
+      "summary": "该话题汇集了 1 条来自 bilibili 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "2018",
+        "全球总决赛",
+        "mv",
+        "登峰造极境",
+        "rise",
+        "2018"
+      ],
+      "items": [
+        {
+          "id": "bilibili-abe8e3354e00cc18",
+          "source": "bilibili",
+          "title": "【 英雄联盟 】2018全球总决赛MV—登峰造极境 Rise",
+          "url": "http://www.bilibili.com/video/av32504233",
+          "description": "【英雄联盟】2018全球总决赛MV—登峰造极境 登顶不仅需要技巧的磨炼，更需要追求“登峰造极境”的雄心壮志。2017全球总决赛，征战7年的老将安掌门率队击败Perks所在的G2，攀峰路上虽被@UziQAQ 重创，但他最终还是来到山巅，挑战三冠王Faker，弑神复仇！#2018全球总决赛#即将到来，谁将登峰造极境？ “登峰造极境” 音乐参与：The Glitch Mob、Mako、The Word Alive 创作团队：拳头游戏音乐团队 及 Alex Seaver of Mako 额外创作：Justin T",
+          "author": "英雄联盟",
+          "published_at": "2018-09-26T13:00:33+00:00",
+          "metrics": {
+            "views": 29236497,
+            "comments": 85325
+          },
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-3",
+      "title": "【 英雄联盟 】2019全球总决赛MV《涅槃》",
+      "summary": "该话题汇集了 1 条来自 bilibili 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "2019",
+        "全球总决赛",
+        "mv",
+        "涅槃",
+        "s9",
+        "全球总决赛主题曲"
+      ],
+      "items": [
+        {
+          "id": "bilibili-fd720b1f9b774709",
+          "source": "bilibili",
+          "title": "【 英雄联盟 】2019全球总决赛MV《涅槃》",
+          "url": "http://www.bilibili.com/video/av70615753",
+          "description": "#S9全球总决赛主题曲#【2019全球总决赛MV《涅槃》】你要何去何从，向前是涅槃还是向后是平庸 ，不死的火鸟，张开双翼，开创新的王朝！埋葬你的心魔，挣脱束缚的枷锁，不死的火鸟，对这世界的宣告他的重生。斩断疑虑，直面未来！ ************************************************ 《涅槃》 演唱：Cailin Russo和@Chrissy-Costanza 作曲：Mako组合Alex Seaver和拳头游戏音乐团队 制作：拳头游戏音乐团队和Mako组合Ale",
+          "author": "英雄联盟",
+          "published_at": "2019-10-08T19:58:50+00:00",
+          "metrics": {
+            "views": 17695177,
+            "comments": 34128
+          },
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-4",
+      "title": "【 英雄联盟 】2021全球总决赛主题曲 《不可阻挡》",
+      "summary": "该话题汇集了 1 条来自 bilibili 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "2021",
+        "全球总决赛主题曲不可阻挡全新十年新的传奇正待书写下定决心的职业选手们汇聚于各自赛区的秘密训练基地在追寻突破自我的试炼中一种神奇变化正在悄然发生并逐渐席卷全球打破所有障碍我自有火光我将不可阻挡主打艺人",
+        "pvris",
+        "作词作曲拳头游戏音乐团队",
+        "alexseaverofmako",
+        "制作拳头游戏音乐团队混音"
+      ],
+      "items": [
+        {
+          "id": "bilibili-92f882d46ef0cdf5",
+          "source": "bilibili",
+          "title": "【 英雄联盟 】2021全球总决赛主题曲 《不可阻挡》",
+          "url": "http://www.bilibili.com/video/av718270291",
+          "description": "全新十年，新的传奇正待书写。下定决心的职业选手们，汇聚于各自赛区的秘密训练基地，在追寻突破自我的试炼中，一种神奇变化正在悄然发生，并逐渐席卷全球…… \"打破所有障碍，我自有火光，我将不可阻挡\" 主打艺人：PVRIS 作词作曲: 拳头游戏音乐团队、Alex Seaver of Mako 制作: 拳头游戏音乐团队 混音: Eric J、 拳头游戏音乐团队 母带: Mike Bozzi（Bernie Grundman录音棚） 演唱: PVRIS 演唱制作: 拳头游戏音乐团队、Alex Seaver o",
+          "author": "英雄联盟",
+          "published_at": "2021-09-29T00:00:19+00:00",
+          "metrics": {
+            "views": 21926566,
+            "comments": 34790
+          },
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-5",
+      "title": "【 英雄联盟 】2023全球总决赛主题曲《登神》",
+      "summary": "该话题汇集了 1 条来自 bilibili 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "2023",
+        "全球总决赛主题曲登神",
+        "2023",
+        "英雄联盟全球总决赛主题曲动画",
+        "mv",
+        "登神命运敲响琴键哪怕一路艰险也要惊世如同闪电不再迷失我的心不畏崎岖待如今将不屈百炼成金"
+      ],
+      "items": [
+        {
+          "id": "bilibili-d15a830617028b1e",
+          "source": "bilibili",
+          "title": "【 英雄联盟 】2023全球总决赛主题曲《登神》",
+          "url": "http://www.bilibili.com/video/av704054090",
+          "description": "2023英雄联盟全球总决赛主题曲动画MV《登神》 命运敲响琴键 哪怕一路艰险 也要惊世如同闪电 不再迷失我的心 不畏崎岖待如今 将不屈 百炼成金",
+          "author": "英雄联盟",
+          "published_at": "2023-10-04T05:00:00+00:00",
+          "metrics": {
+            "views": 18654754,
+            "comments": 22865
+          },
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-6",
+      "title": "AI工坊 935",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "ai",
+        "工坊",
+        "935",
+        "工坊"
+      ],
+      "items": [
+        {
+          "id": "hupu-a822dd295c81bcad",
+          "source": "hupu",
+          "title": "AI工坊 935",
+          "url": "https://bbs.hupu.com/871",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-7",
+      "title": "BLG晋级S16八强难度骤降",
+      "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "blg",
+        "晋级",
+        "s16",
+        "八强难度骤降新",
+        "晋级",
+        "级八"
+      ],
+      "items": [
+        {
+          "id": "weibo-4d8196d61a82394d",
+          "source": "weibo",
+          "title": "BLG晋级S16八强难度骤降",
+          "url": "https://s.weibo.com/weibo?q=%23BLG%E6%99%8B%E7%BA%A7S16%E5%85%AB%E5%BC%BA%E9%9A%BE%E5%BA%A6%E9%AA%A4%E9%99%8D%23",
+          "description": "新",
+          "author": "",
+          "published_at": null,
+          "metrics": {
+            "hot_value": 657171,
+            "rank": 6
+          },
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-8",
+      "title": "【 英雄联盟 】K/DA官方MV - \"MORE\"正式上...",
+      "summary": "该话题汇集了 1 条来自 bilibili 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "kda",
+        "官方",
+        "mvmore",
+        "正式上线",
+        "kda",
+        "官方"
+      ],
+      "items": [
+        {
+          "id": "bilibili-5a634bfd128ff961",
+          "source": "bilibili",
+          "title": "【 英雄联盟 】K/DA官方MV - \"MORE\"正式上线",
+          "url": "http://www.bilibili.com/video/av372582594",
+          "description": "K/DA官方MV - \"MORE\"正式上线",
+          "author": "英雄联盟",
+          "published_at": "2020-10-28T14:03:08+00:00",
+          "metrics": {
+            "views": 21787463,
+            "comments": 30533
+          },
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-9",
+      "title": "MLB棒球场 54",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "mlb",
+        "棒球场",
+        "54",
+        "棒球",
+        "球场"
+      ],
+      "items": [
+        {
+          "id": "hupu-e48f3afe7c4f938a",
+          "source": "hupu",
+          "title": "MLB棒球场 54",
+          "url": "https://bbs.hupu.com/705",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-10",
+      "title": "NFL专区 253",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "nfl",
+        "专区",
+        "253",
+        "专区"
+      ],
+      "items": [
+        {
+          "id": "hupu-fc77520dac7c1d37",
+          "source": "hupu",
+          "title": "NFL专区 253",
+          "url": "https://bbs.hupu.com/nfl",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    }
+  ],
+  "meta": {
+    "cluster_mode": "local",
+    "item_count": 51
+  }
+}
