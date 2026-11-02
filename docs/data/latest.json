@@ -1,159 +1,48 @@
 {
-  "date": "2026-11-01",
-  "generated_at": "2026-11-01T08:32:36.072839+08:00",
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T08:34:22.616099+08:00",
   "sources": {
     "bilibili": {
       "status": "failed",
       "count": 0,
       "error": "412 Client Error: Precondition Failed for url: https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&order=click&page=1",
-      "collected_at": "2026-11-01T08:32:36.592440+08:00"
+      "collected_at": "2026-11-02T08:34:23.078091+08:00"
     },
     "weibo": {
       "status": "ok",
-      "count": 10,
+      "count": 0,
       "error": null,
-      "collected_at": "2026-11-01T08:32:37.490262+08:00"
+      "collected_at": "2026-11-02T08:34:24.059015+08:00"
     },
     "hupu": {
       "status": "ok",
       "count": 30,
       "error": null,
-      "collected_at": "2026-11-01T08:32:39.338100+08:00"
+      "collected_at": "2026-11-02T08:34:26.048032+08:00"
     },
     "douyin": {
       "status": "failed",
       "count": 0,
       "error": "未配置 DOUYIN_HOT_API_URL",
-      "collected_at": "2026-11-01T08:32:39.338677+08:00"
+      "collected_at": "2026-11-02T08:34:26.048571+08:00"
     }
   },
   "topics": [
     {
       "id": "topic-1",
-      "title": "BLG战胜HLE",
-      "summary": "该话题汇集了 3 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
-      "keywords": [
-        "blg",
-        "战胜",
-        "hle",
-        "战胜",
-        "胜新"
-      ],
-      "items": [
-        {
-          "id": "weibo-1d3cb7642cf41b46",
-          "source": "weibo",
-          "title": "BLG战胜HLE",
-          "url": "https://s.weibo.com/weibo?q=BLG%E6%88%98%E8%83%9CHLE",
-          "description": "新",
-          "author": "",
-          "published_at": null,
-          "metrics": {
-            "hot_value": 2271581,
-            "rank": 0
-          },
-          "keywords": [
-            "英雄联盟"
-          ]
-        },
-        {
-          "id": "weibo-8e69b64ef6c9e3da",
-          "source": "weibo",
-          "title": "BLG直落两局横扫HLE",
-          "url": "https://s.weibo.com/weibo?q=%23BLG%E7%9B%B4%E8%90%BD%E4%B8%A4%E5%B1%80%E6%A8%AA%E6%89%ABHLE%23",
-          "description": "新",
-          "author": "",
-          "published_at": null,
-          "metrics": {
-            "hot_value": 288235,
-            "rank": 22
-          },
-          "keywords": [
-            "英雄联盟"
-          ]
-        },
-        {
-          "id": "weibo-e9e79c9ba9a944b2",
-          "source": "weibo",
-          "title": "BLG晋级S16淘汰赛",
-          "url": "https://s.weibo.com/weibo?q=%23BLG%E6%99%8B%E7%BA%A7S16%E6%B7%98%E6%B1%B0%E8%B5%9B%23",
-          "description": "新",
-          "author": "",
-          "published_at": null,
-          "metrics": {
-            "hot_value": 158725,
-            "rank": 40
-          },
-          "keywords": [
-            "英雄联盟"
-          ]
-        }
-      ],
-      "douyin_videos": []
-    },
-    {
-      "id": "topic-2",
-      "title": "LPL锁定三个八强名额",
-      "summary": "该话题汇集了 2 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
-      "keywords": [
-        "lpl",
-        "锁定三个八强名额新",
-        "锁定",
-        "定三",
-        "三个",
-        "个八"
-      ],
-      "items": [
-        {
-          "id": "weibo-94b570d8cf1a9069",
-          "source": "weibo",
-          "title": "LPL锁定三个八强名额",
-          "url": "https://s.weibo.com/weibo?q=%23LPL%E9%94%81%E5%AE%9A%E4%B8%89%E4%B8%AA%E5%85%AB%E5%BC%BA%E5%90%8D%E9%A2%9D%23",
-          "description": "新",
-          "author": "",
-          "published_at": null,
-          "metrics": {
-            "hot_value": 171932,
-            "rank": 37
-          },
-          "keywords": [
-            "英雄联盟"
-          ]
-        },
-        {
-          "id": "weibo-bf137f9a498648d6",
-          "source": "weibo",
-          "title": "LPL三个八强",
-          "url": "https://s.weibo.com/weibo?q=%23LPL%E4%B8%89%E4%B8%AA%E5%85%AB%E5%BC%BA%23",
-          "description": "新",
-          "author": "",
-          "published_at": null,
-          "metrics": {
-            "hot_value": 125033,
-            "rank": 48
-          },
-          "keywords": [
-            "英雄联盟"
-          ]
-        }
-      ],
-      "douyin_videos": []
-    },
-    {
-      "id": "topic-3",
-      "title": "AI工坊 902",
+      "title": "AI工坊 833",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "ai",
         "工坊",
-        "902",
+        "833",
         "工坊"
       ],
       "items": [
         {
           "id": "hupu-a822dd295c81bcad",
           "source": "hupu",
-          "title": "AI工坊 902",
+          "title": "AI工坊 833",
           "url": "https://bbs.hupu.com/871",
           "description": "",
           "author": "",
@@ -167,75 +56,13 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-4",
-      "title": "HLE对战BLG",
-      "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
-      "keywords": [
-        "hle",
-        "对战",
-        "blg",
-        "对战"
-      ],
-      "items": [
-        {
-          "id": "weibo-5b9bd686525194e6",
-          "source": "weibo",
-          "title": "HLE对战BLG",
-          "url": "https://s.weibo.com/weibo?q=%23HLE%E5%AF%B9%E6%88%98BLG%23",
-          "description": "",
-          "author": "",
-          "published_at": null,
-          "metrics": {
-            "hot_value": 475051,
-            "rank": 5
-          },
-          "keywords": [
-            "英雄联盟"
-          ]
-        }
-      ],
-      "douyin_videos": []
-    },
-    {
-      "id": "topic-5",
-      "title": "Knight发条团战完美谢幕",
-      "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
-      "keywords": [
-        "knight",
-        "发条团战完美谢幕新",
-        "发条",
-        "条团",
-        "团战",
-        "战完"
-      ],
-      "items": [
-        {
-          "id": "weibo-603b9e8f82e49bae",
-          "source": "weibo",
-          "title": "Knight发条团战完美谢幕",
-          "url": "https://s.weibo.com/weibo?q=%23Knight%E5%8F%91%E6%9D%A1%E5%9B%A2%E6%88%98%E5%AE%8C%E7%BE%8E%E8%B0%A2%E5%B9%95%23",
-          "description": "新",
-          "author": "",
-          "published_at": null,
-          "metrics": {
-            "hot_value": 156894,
-            "rank": 41
-          },
-          "keywords": [
-            "英雄联盟"
-          ]
-        }
-      ],
-      "douyin_videos": []
-    },
-    {
-      "id": "topic-6",
-      "title": "MLB棒球场 50",
+      "id": "topic-2",
+      "title": "MLB棒球场 28",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "mlb",
         "棒球场",
-        "50",
+        "28",
         "棒球",
         "球场"
       ],
@@ -243,7 +70,7 @@
         {
           "id": "hupu-e48f3afe7c4f938a",
           "source": "hupu",
-          "title": "MLB棒球场 50",
+          "title": "MLB棒球场 28",
           "url": "https://bbs.hupu.com/705",
           "description": "",
           "author": "",
@@ -257,20 +84,20 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-7",
-      "title": "NFL专区 247",
+      "id": "topic-3",
+      "title": "NFL专区 614",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "nfl",
         "专区",
-        "247",
+        "614",
         "专区"
       ],
       "items": [
         {
           "id": "hupu-fc77520dac7c1d37",
           "source": "hupu",
-          "title": "NFL专区 247",
+          "title": "NFL专区 614",
           "url": "https://bbs.hupu.com/nfl",
           "description": "",
           "author": "",
@@ -284,8 +111,8 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-8",
-      "title": "WWE专区 1",
+      "id": "topic-4",
+      "title": "WWE专区 0",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "wwe",
@@ -296,7 +123,7 @@
         {
           "id": "hupu-99beff6e9162e813",
           "source": "hupu",
-          "title": "WWE专区 1",
+          "title": "WWE专区 0",
           "url": "https://bbs.hupu.com/833",
           "description": "",
           "author": "",
@@ -310,7 +137,7 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-9",
+      "id": "topic-5",
       "title": "乒乓球区 2.0w",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
@@ -338,12 +165,12 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-10",
-      "title": "健身区 446",
+      "id": "topic-6",
+      "title": "健身区 478",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "健身区",
-        "446",
+        "478",
         "健身",
         "身区"
       ],
@@ -351,8 +178,118 @@
         {
           "id": "hupu-d4230db0954b53b0",
           "source": "hupu",
-          "title": "健身区 446",
+          "title": "健身区 478",
           "url": "https://bbs.hupu.com/fit",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-7",
+      "title": "动物萌宠区 26",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "动物萌宠区",
+        "26",
+        "动物",
+        "物萌",
+        "萌宠",
+        "宠区"
+      ],
+      "items": [
+        {
+          "id": "hupu-a0bb1e0cbfc2579e",
+          "source": "hupu",
+          "title": "动物萌宠区 26",
+          "url": "https://bbs.hupu.com/34",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-8",
+      "title": "历史区 7.1w",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "历史区",
+        "71w",
+        "历史",
+        "史区"
+      ],
+      "items": [
+        {
+          "id": "hupu-c2a2315c9e885c92",
+          "source": "hupu",
+          "title": "历史区 7.1w",
+          "url": "https://bbs.hupu.com/history",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-9",
+      "title": "台球区 2216",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "台球区",
+        "2216",
+        "台球",
+        "球区"
+      ],
+      "items": [
+        {
+          "id": "hupu-c37ce53807b6c718",
+          "source": "hupu",
+          "title": "台球区 2216",
+          "url": "https://bbs.hupu.com/billiards",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-10",
+      "title": "围棋区 28",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "围棋区",
+        "28",
+        "围棋",
+        "棋区"
+      ],
+      "items": [
+        {
+          "id": "hupu-d084d3604473c581",
+          "source": "hupu",
+          "title": "围棋区 28",
+          "url": "https://bbs.hupu.com/832",
           "description": "",
           "author": "",
           "published_at": null,
@@ -367,6 +304,6 @@
   ],
   "meta": {
     "cluster_mode": "local",
-    "item_count": 40
+    "item_count": 30
   }
 }
