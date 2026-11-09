@@ -1,110 +1,48 @@
 {
-  "date": "2026-11-08",
-  "generated_at": "2026-11-08T08:34:54.629298+08:00",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T08:36:41.241993+08:00",
   "sources": {
     "bilibili": {
       "status": "failed",
       "count": 0,
       "error": "412 Client Error: Precondition Failed for url: https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&order=click&page=1",
-      "collected_at": "2026-11-08T08:34:55.119627+08:00"
+      "collected_at": "2026-11-09T08:36:41.707268+08:00"
     },
     "weibo": {
       "status": "ok",
-      "count": 5,
+      "count": 2,
       "error": null,
-      "collected_at": "2026-11-08T08:34:55.824114+08:00"
+      "collected_at": "2026-11-09T08:36:42.420014+08:00"
     },
     "hupu": {
       "status": "ok",
       "count": 30,
       "error": null,
-      "collected_at": "2026-11-08T08:34:57.246436+08:00"
+      "collected_at": "2026-11-09T08:36:44.091845+08:00"
     },
     "douyin": {
       "status": "failed",
       "count": 0,
       "error": "未配置 DOUYIN_HOT_API_URL",
-      "collected_at": "2026-11-08T08:34:57.246959+08:00"
+      "collected_at": "2026-11-09T08:36:44.092455+08:00"
     }
   },
   "topics": [
     {
       "id": "topic-1",
-      "title": "iG对战GEN",
-      "summary": "该话题汇集了 3 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
-      "keywords": [
-        "ig",
-        "对战",
-        "gen",
-        "对战"
-      ],
-      "items": [
-        {
-          "id": "weibo-81a8877bc969d751",
-          "source": "weibo",
-          "title": "iG对战GEN",
-          "url": "https://s.weibo.com/weibo?q=%23iG%E5%AF%B9%E6%88%98GEN%23",
-          "description": "",
-          "author": "",
-          "published_at": null,
-          "metrics": {
-            "hot_value": 577095,
-            "rank": 5
-          },
-          "keywords": [
-            "英雄联盟"
-          ]
-        },
-        {
-          "id": "weibo-63ea29acd80070c6",
-          "source": "weibo",
-          "title": "iG醒醒",
-          "url": "https://s.weibo.com/weibo?q=iG%E9%86%92%E9%86%92",
-          "description": "新",
-          "author": "",
-          "published_at": null,
-          "metrics": {
-            "hot_value": 296156,
-            "rank": 6
-          },
-          "keywords": [
-            "英雄联盟"
-          ]
-        },
-        {
-          "id": "weibo-1480111e5563c48c",
-          "source": "weibo",
-          "title": "iG开局爆炸",
-          "url": "https://s.weibo.com/weibo?q=%23iG%E5%BC%80%E5%B1%80%E7%88%86%E7%82%B8%23",
-          "description": "新",
-          "author": "",
-          "published_at": null,
-          "metrics": {
-            "hot_value": 98913,
-            "rank": 43
-          },
-          "keywords": [
-            "英雄联盟"
-          ]
-        }
-      ],
-      "douyin_videos": []
-    },
-    {
-      "id": "topic-2",
-      "title": "AI工坊 783",
+      "title": "AI工坊 646",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "ai",
         "工坊",
-        "783",
+        "646",
         "工坊"
       ],
       "items": [
         {
           "id": "hupu-a822dd295c81bcad",
           "source": "hupu",
-          "title": "AI工坊 783",
+          "title": "AI工坊 646",
           "url": "https://bbs.hupu.com/871",
           "description": "",
           "author": "",
@@ -118,29 +56,28 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-3",
-      "title": "GEN打iG拿到了三个赛点",
+      "id": "topic-2",
+      "title": "BLG对战T1",
       "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
-        "gen",
-        "ig",
-        "拿到了三个赛点新",
-        "打拿",
-        "拿到",
-        "到了"
+        "blg",
+        "对战",
+        "t1",
+        "对战",
+        "战新"
       ],
       "items": [
         {
-          "id": "weibo-315dcb7c90f6a0cb",
+          "id": "weibo-b65d7d6dda381cd9",
           "source": "weibo",
-          "title": "GEN打iG拿到了三个赛点",
-          "url": "https://s.weibo.com/weibo?q=%23GEN%E6%89%93iG%E6%8B%BF%E5%88%B0%E4%BA%86%E4%B8%89%E4%B8%AA%E8%B5%9B%E7%82%B9%23",
+          "title": "BLG对战T1",
+          "url": "https://s.weibo.com/weibo?q=%23BLG%E5%AF%B9%E6%88%98T1%23",
           "description": "新",
           "author": "",
           "published_at": null,
           "metrics": {
-            "hot_value": 131731,
-            "rank": 29
+            "hot_value": 1512915,
+            "rank": 0
           },
           "keywords": [
             "英雄联盟"
@@ -150,13 +87,13 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-4",
-      "title": "MLB棒球场 10",
+      "id": "topic-3",
+      "title": "MLB棒球场 17",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "mlb",
         "棒球场",
-        "10",
+        "17",
         "棒球",
         "球场"
       ],
@@ -164,7 +101,7 @@
         {
           "id": "hupu-e48f3afe7c4f938a",
           "source": "hupu",
-          "title": "MLB棒球场 10",
+          "title": "MLB棒球场 17",
           "url": "https://bbs.hupu.com/705",
           "description": "",
           "author": "",
@@ -178,20 +115,20 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-5",
-      "title": "NFL专区 210",
+      "id": "topic-4",
+      "title": "NFL专区 607",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "nfl",
         "专区",
-        "210",
+        "607",
         "专区"
       ],
       "items": [
         {
           "id": "hupu-fc77520dac7c1d37",
           "source": "hupu",
-          "title": "NFL专区 210",
+          "title": "NFL专区 607",
           "url": "https://bbs.hupu.com/nfl",
           "description": "",
           "author": "",
@@ -205,29 +142,29 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-6",
-      "title": "Ning说iG的BP思路有大问题",
+      "id": "topic-5",
+      "title": "T1一比一扳平BLG",
       "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
-        "ning",
-        "ig",
-        "bp",
-        "思路有大问题新",
-        "说的",
-        "的思"
+        "t1",
+        "一比一扳平",
+        "blg",
+        "一比",
+        "比一",
+        "一扳"
       ],
       "items": [
         {
-          "id": "weibo-b60846fbe299783e",
+          "id": "weibo-ed95b2bb930d56ec",
           "source": "weibo",
-          "title": "Ning说iG的BP思路有大问题",
-          "url": "https://s.weibo.com/weibo?q=%23Ning%E8%AF%B4iG%E7%9A%84BP%E6%80%9D%E8%B7%AF%E6%9C%89%E5%A4%A7%E9%97%AE%E9%A2%98%23",
+          "title": "T1一比一扳平BLG",
+          "url": "https://s.weibo.com/weibo?q=%23T1%E4%B8%80%E6%AF%94%E4%B8%80%E6%89%B3%E5%B9%B3BLG%23",
           "description": "新",
           "author": "",
           "published_at": null,
           "metrics": {
-            "hot_value": 108719,
-            "rank": 40
+            "hot_value": 169467,
+            "rank": 30
           },
           "keywords": [
             "英雄联盟"
@@ -237,20 +174,19 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-7",
-      "title": "WWE专区 13",
+      "id": "topic-6",
+      "title": "WWE专区 2",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "wwe",
         "专区",
-        "13",
         "专区"
       ],
       "items": [
         {
           "id": "hupu-99beff6e9162e813",
           "source": "hupu",
-          "title": "WWE专区 13",
+          "title": "WWE专区 2",
           "url": "https://bbs.hupu.com/833",
           "description": "",
           "author": "",
@@ -264,12 +200,12 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-8",
-      "title": "乒乓球区 2.6w",
+      "id": "topic-7",
+      "title": "乒乓球区 1.6w",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "乒乓球区",
-        "26w",
+        "16w",
         "乒乓",
         "乓球",
         "球区"
@@ -278,7 +214,7 @@
         {
           "id": "hupu-60677b2769016c15",
           "source": "hupu",
-          "title": "乒乓球区 2.6w",
+          "title": "乒乓球区 1.6w",
           "url": "https://bbs.hupu.com/pingpang",
           "description": "",
           "author": "",
@@ -292,12 +228,12 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-9",
-      "title": "健身区 886",
+      "id": "topic-8",
+      "title": "健身区 738",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "健身区",
-        "886",
+        "738",
         "健身",
         "身区"
       ],
@@ -305,7 +241,7 @@
         {
           "id": "hupu-d4230db0954b53b0",
           "source": "hupu",
-          "title": "健身区 886",
+          "title": "健身区 738",
           "url": "https://bbs.hupu.com/fit",
           "description": "",
           "author": "",
@@ -319,12 +255,12 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-10",
-      "title": "动物萌宠区 63",
+      "id": "topic-9",
+      "title": "动物萌宠区 31",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "动物萌宠区",
-        "63",
+        "31",
         "动物",
         "物萌",
         "萌宠",
@@ -334,8 +270,35 @@
         {
           "id": "hupu-a0bb1e0cbfc2579e",
           "source": "hupu",
-          "title": "动物萌宠区 63",
+          "title": "动物萌宠区 31",
           "url": "https://bbs.hupu.com/34",
+          "description": "",
+          "author": "",
+          "published_at": null,
+          "metrics": {},
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
+      "id": "topic-10",
+      "title": "历史区 6.3w",
+      "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "历史区",
+        "63w",
+        "历史",
+        "史区"
+      ],
+      "items": [
+        {
+          "id": "hupu-c2a2315c9e885c92",
+          "source": "hupu",
+          "title": "历史区 6.3w",
+          "url": "https://bbs.hupu.com/history",
           "description": "",
           "author": "",
           "published_at": null,
@@ -350,6 +313,6 @@
   ],
   "meta": {
     "cluster_mode": "local",
-    "item_count": 35
+    "item_count": 32
   }
 }
