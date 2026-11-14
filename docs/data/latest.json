@@ -1,48 +1,48 @@
 {
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13T08:42:31.198442+08:00",
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T08:35:43.416849+08:00",
   "sources": {
     "bilibili": {
       "status": "failed",
       "count": 0,
       "error": "412 Client Error: Precondition Failed for url: https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&order=click&page=1",
-      "collected_at": "2026-11-13T08:42:31.647176+08:00"
+      "collected_at": "2026-11-14T08:35:44.103027+08:00"
     },
     "weibo": {
       "status": "ok",
       "count": 0,
       "error": null,
-      "collected_at": "2026-11-13T08:42:32.658106+08:00"
+      "collected_at": "2026-11-14T08:35:44.968680+08:00"
     },
     "hupu": {
       "status": "ok",
       "count": 30,
       "error": null,
-      "collected_at": "2026-11-13T08:42:34.614370+08:00"
+      "collected_at": "2026-11-14T08:35:46.575226+08:00"
     },
     "douyin": {
       "status": "failed",
       "count": 0,
       "error": "未配置 DOUYIN_HOT_API_URL",
-      "collected_at": "2026-11-13T08:42:34.614886+08:00"
+      "collected_at": "2026-11-14T08:35:46.575802+08:00"
     }
   },
   "topics": [
     {
       "id": "topic-1",
-      "title": "AI工坊 578",
+      "title": "AI工坊 798",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "ai",
         "工坊",
-        "578",
+        "798",
         "工坊"
       ],
       "items": [
         {
           "id": "hupu-a822dd295c81bcad",
           "source": "hupu",
-          "title": "AI工坊 578",
+          "title": "AI工坊 798",
           "url": "https://bbs.hupu.com/871",
           "description": "",
           "author": "",
@@ -57,7 +57,7 @@
     },
     {
       "id": "topic-2",
-      "title": "MLB棒球场 9",
+      "title": "MLB棒球场 8",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "mlb",
@@ -69,7 +69,7 @@
         {
           "id": "hupu-e48f3afe7c4f938a",
           "source": "hupu",
-          "title": "MLB棒球场 9",
+          "title": "MLB棒球场 8",
           "url": "https://bbs.hupu.com/705",
           "description": "",
           "author": "",
@@ -84,19 +84,19 @@
     },
     {
       "id": "topic-3",
-      "title": "NFL专区 319",
+      "title": "NFL专区 310",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "nfl",
         "专区",
-        "319",
+        "310",
         "专区"
       ],
       "items": [
         {
           "id": "hupu-fc77520dac7c1d37",
           "source": "hupu",
-          "title": "NFL专区 319",
+          "title": "NFL专区 310",
           "url": "https://bbs.hupu.com/nfl",
           "description": "",
           "author": "",
@@ -111,19 +111,18 @@
     },
     {
       "id": "topic-4",
-      "title": "WWE专区 14",
+      "title": "WWE专区 0",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "wwe",
         "专区",
-        "14",
         "专区"
       ],
       "items": [
         {
           "id": "hupu-99beff6e9162e813",
           "source": "hupu",
-          "title": "WWE专区 14",
+          "title": "WWE专区 0",
           "url": "https://bbs.hupu.com/833",
           "description": "",
           "author": "",
@@ -138,11 +137,11 @@
     },
     {
       "id": "topic-5",
-      "title": "乒乓球区 4278",
+      "title": "乒乓球区 5313",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "乒乓球区",
-        "4278",
+        "5313",
         "乒乓",
         "乓球",
         "球区"
@@ -151,7 +150,7 @@
         {
           "id": "hupu-60677b2769016c15",
           "source": "hupu",
-          "title": "乒乓球区 4278",
+          "title": "乒乓球区 5313",
           "url": "https://bbs.hupu.com/pingpang",
           "description": "",
           "author": "",
@@ -166,11 +165,11 @@
     },
     {
       "id": "topic-6",
-      "title": "健身区 991",
+      "title": "健身区 860",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "健身区",
-        "991",
+        "860",
         "健身",
         "身区"
       ],
@@ -178,7 +177,7 @@
         {
           "id": "hupu-d4230db0954b53b0",
           "source": "hupu",
-          "title": "健身区 991",
+          "title": "健身区 860",
           "url": "https://bbs.hupu.com/fit",
           "description": "",
           "author": "",
@@ -193,11 +192,11 @@
     },
     {
       "id": "topic-7",
-      "title": "动物萌宠区 473",
+      "title": "动物萌宠区 266",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "动物萌宠区",
-        "473",
+        "266",
         "动物",
         "物萌",
         "萌宠",
@@ -207,7 +206,7 @@
         {
           "id": "hupu-a0bb1e0cbfc2579e",
           "source": "hupu",
-          "title": "动物萌宠区 473",
+          "title": "动物萌宠区 266",
           "url": "https://bbs.hupu.com/34",
           "description": "",
           "author": "",
@@ -222,11 +221,11 @@
     },
     {
       "id": "topic-8",
-      "title": "历史区 10.9w",
+      "title": "历史区 10.0w",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "历史区",
-        "109w",
+        "100w",
         "历史",
         "史区"
       ],
@@ -234,7 +233,7 @@
         {
           "id": "hupu-c2a2315c9e885c92",
           "source": "hupu",
-          "title": "历史区 10.9w",
+          "title": "历史区 10.0w",
           "url": "https://bbs.hupu.com/history",
           "description": "",
           "author": "",
@@ -249,11 +248,11 @@
     },
     {
       "id": "topic-9",
-      "title": "台球区 2130",
+      "title": "台球区 418",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "台球区",
-        "2130",
+        "418",
         "台球",
         "球区"
       ],
@@ -261,7 +260,7 @@
         {
           "id": "hupu-c37ce53807b6c718",
           "source": "hupu",
-          "title": "台球区 2130",
+          "title": "台球区 418",
           "url": "https://bbs.hupu.com/billiards",
           "description": "",
           "author": "",
@@ -276,11 +275,11 @@
     },
     {
       "id": "topic-10",
-      "title": "围棋区 30",
+      "title": "围棋区 65",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "围棋区",
-        "30",
+        "65",
         "围棋",
         "棋区"
       ],
@@ -288,7 +287,7 @@
         {
           "id": "hupu-d084d3604473c581",
           "source": "hupu",
-          "title": "围棋区 30",
+          "title": "围棋区 65",
           "url": "https://bbs.hupu.com/832",
           "description": "",
           "author": "",
