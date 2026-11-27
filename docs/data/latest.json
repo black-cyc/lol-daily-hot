@@ -1,48 +1,48 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T14:25:29.565329+08:00",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T14:15:12.383978+08:00",
   "sources": {
     "bilibili": {
       "status": "failed",
       "count": 0,
       "error": "412 Client Error: Precondition Failed for url: https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&order=click&page=1",
-      "collected_at": "2026-11-26T14:25:30.219009+08:00"
+      "collected_at": "2026-11-27T14:15:13.146984+08:00"
     },
     "weibo": {
       "status": "ok",
-      "count": 2,
+      "count": 1,
       "error": null,
-      "collected_at": "2026-11-26T14:25:31.432453+08:00"
+      "collected_at": "2026-11-27T14:15:14.335322+08:00"
     },
     "hupu": {
       "status": "ok",
       "count": 30,
       "error": null,
-      "collected_at": "2026-11-26T14:25:33.205607+08:00"
+      "collected_at": "2026-11-27T14:15:16.323441+08:00"
     },
     "douyin": {
       "status": "failed",
       "count": 0,
       "error": "未配置 DOUYIN_HOT_API_URL",
-      "collected_at": "2026-11-26T14:25:33.206136+08:00"
+      "collected_at": "2026-11-27T14:15:16.324012+08:00"
     }
   },
   "topics": [
     {
       "id": "topic-1",
-      "title": "AI工坊 2145",
+      "title": "AI工坊 2026",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "ai",
         "工坊",
-        "2145",
+        "2026",
         "工坊"
       ],
       "items": [
         {
           "id": "hupu-a822dd295c81bcad",
           "source": "hupu",
-          "title": "AI工坊 2145",
+          "title": "AI工坊 2026",
           "url": "https://bbs.hupu.com/871",
           "description": "",
           "author": "",
@@ -57,44 +57,12 @@
     },
     {
       "id": "topic-2",
-      "title": "曝BLG二选一JackeyLove和Diable",
-      "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
-      "keywords": [
-        "blg",
-        "二选一",
-        "jackeylove",
-        "diable",
-        "曝二",
-        "二选"
-      ],
-      "items": [
-        {
-          "id": "weibo-828429a297a04f47",
-          "source": "weibo",
-          "title": "曝BLG二选一JackeyLove和Diable",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DBLG%E4%BA%8C%E9%80%89%E4%B8%80JackeyLove%E5%92%8CDiable%23",
-          "description": "新",
-          "author": "",
-          "published_at": null,
-          "metrics": {
-            "hot_value": 335761,
-            "rank": 24
-          },
-          "keywords": [
-            "英雄联盟"
-          ]
-        }
-      ],
-      "douyin_videos": []
-    },
-    {
-      "id": "topic-3",
-      "title": "MLB棒球场 46",
+      "title": "MLB棒球场 54",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "mlb",
         "棒球场",
-        "46",
+        "54",
         "棒球",
         "球场"
       ],
@@ -102,7 +70,7 @@
         {
           "id": "hupu-e48f3afe7c4f938a",
           "source": "hupu",
-          "title": "MLB棒球场 46",
+          "title": "MLB棒球场 54",
           "url": "https://bbs.hupu.com/705",
           "description": "",
           "author": "",
@@ -116,20 +84,20 @@
       "douyin_videos": []
     },
     {
-      "id": "topic-4",
-      "title": "NFL专区 2736",
+      "id": "topic-3",
+      "title": "NFL专区 4386",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "nfl",
         "专区",
-        "2736",
+        "4386",
         "专区"
       ],
       "items": [
         {
           "id": "hupu-fc77520dac7c1d37",
           "source": "hupu",
-          "title": "NFL专区 2736",
+          "title": "NFL专区 4386",
           "url": "https://bbs.hupu.com/nfl",
           "description": "",
           "author": "",
@@ -143,19 +111,52 @@
       "douyin_videos": []
     },
     {
+      "id": "topic-4",
+      "title": "曝Viper拒绝BLG续约邀请",
+      "summary": "该话题汇集了 1 条来自 weibo 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
+      "keywords": [
+        "viper",
+        "拒绝",
+        "blg",
+        "续约邀请新",
+        "曝拒",
+        "拒绝"
+      ],
+      "items": [
+        {
+          "id": "weibo-55ab650464d4f9b3",
+          "source": "weibo",
+          "title": "曝Viper拒绝BLG续约邀请",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DViper%E6%8B%92%E7%BB%9DBLG%E7%BB%AD%E7%BA%A6%E9%82%80%E8%AF%B7%23",
+          "description": "新",
+          "author": "",
+          "published_at": null,
+          "metrics": {
+            "hot_value": 287608,
+            "rank": 24
+          },
+          "keywords": [
+            "英雄联盟"
+          ]
+        }
+      ],
+      "douyin_videos": []
+    },
+    {
       "id": "topic-5",
-      "title": "WWE专区 2",
+      "title": "WWE专区 15",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "wwe",
         "专区",
+        "15",
         "专区"
       ],
       "items": [
         {
           "id": "hupu-99beff6e9162e813",
           "source": "hupu",
-          "title": "WWE专区 2",
+          "title": "WWE专区 15",
           "url": "https://bbs.hupu.com/833",
           "description": "",
           "author": "",
@@ -170,11 +171,11 @@
     },
     {
       "id": "topic-6",
-      "title": "乒乓球区 2.0w",
+      "title": "乒乓球区 2.1w",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "乒乓球区",
-        "20w",
+        "21w",
         "乒乓",
         "乓球",
         "球区"
@@ -183,7 +184,7 @@
         {
           "id": "hupu-60677b2769016c15",
           "source": "hupu",
-          "title": "乒乓球区 2.0w",
+          "title": "乒乓球区 2.1w",
           "url": "https://bbs.hupu.com/pingpang",
           "description": "",
           "author": "",
@@ -198,11 +199,11 @@
     },
     {
       "id": "topic-7",
-      "title": "健身区 6347",
+      "title": "健身区 3606",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "健身区",
-        "6347",
+        "3606",
         "健身",
         "身区"
       ],
@@ -210,7 +211,7 @@
         {
           "id": "hupu-d4230db0954b53b0",
           "source": "hupu",
-          "title": "健身区 6347",
+          "title": "健身区 3606",
           "url": "https://bbs.hupu.com/fit",
           "description": "",
           "author": "",
@@ -225,11 +226,11 @@
     },
     {
       "id": "topic-8",
-      "title": "动物萌宠区 334",
+      "title": "动物萌宠区 310",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "动物萌宠区",
-        "334",
+        "310",
         "动物",
         "物萌",
         "萌宠",
@@ -239,7 +240,7 @@
         {
           "id": "hupu-a0bb1e0cbfc2579e",
           "source": "hupu",
-          "title": "动物萌宠区 334",
+          "title": "动物萌宠区 310",
           "url": "https://bbs.hupu.com/34",
           "description": "",
           "author": "",
@@ -254,11 +255,11 @@
     },
     {
       "id": "topic-9",
-      "title": "历史区 34.2w",
+      "title": "历史区 31.4w",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "历史区",
-        "342w",
+        "314w",
         "历史",
         "史区"
       ],
@@ -266,7 +267,7 @@
         {
           "id": "hupu-c2a2315c9e885c92",
           "source": "hupu",
-          "title": "历史区 34.2w",
+          "title": "历史区 31.4w",
           "url": "https://bbs.hupu.com/history",
           "description": "",
           "author": "",
@@ -281,11 +282,11 @@
     },
     {
       "id": "topic-10",
-      "title": "台球区 3392",
+      "title": "台球区 1.2w",
       "summary": "该话题汇集了 1 条来自 hupu 的相关内容。内容按标题关键词和热度信号归并，适合继续追踪创作角度。",
       "keywords": [
         "台球区",
-        "3392",
+        "12w",
         "台球",
         "球区"
       ],
@@ -293,7 +294,7 @@
         {
           "id": "hupu-c37ce53807b6c718",
           "source": "hupu",
-          "title": "台球区 3392",
+          "title": "台球区 1.2w",
           "url": "https://bbs.hupu.com/billiards",
           "description": "",
           "author": "",
@@ -309,6 +310,6 @@
   ],
   "meta": {
     "cluster_mode": "local",
-    "item_count": 32
+    "item_count": 31
   }
 }
